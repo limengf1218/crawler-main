@@ -24,15 +24,12 @@ To upsert of data on your local development server instead of production server,
 # Debugging
 - Crawler relies heavily on [Puppeteer](https://pptr.dev/) to scrape data from CivitAi. Sometimes, puppeteer gives unexpected results and it helps to
 change `puppeteer.launch({ headless: 'new'})` to `puppeteer.launch({ headless: false})` to debug.
-- When you encounter error 4xx/5xx, reading docker logs from the MikoMiko server can be useful in identifying the bug.  
+- When you encounter error 4xx/5xx, reading docker logs from server can be useful in identifying the bug.  
     - Ensure that the route you are trying to debug has a `console.log`
     - Commit and push the changes
-    - SSH into MikoMiko server and run the `update.sh` script
-    - Run `docker ps` to view the new docker container id for MikoMiko
+    - SSH into server and run the `update.sh` script
+    - Run `docker ps` to view the new docker container
     - Run `docker logs [CONTAINER ID]`
 
 # Exeception Handling
 Custom errors are defined under `src/error.mjs` for cleaner exception handling.
-
-<!-- cron setup
-*/1 * * * * /home/jordan/Desktop/Projects/crawler/monitor_script.sh >> /home/jordan/Desktop/Projects/crawler/monitor_script.log 2>&1 -->
