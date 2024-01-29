@@ -1,0 +1,2565 @@
+{
+  "items": [
+    {
+      "id": 136796,
+      "name": "Vivi Novika (@viviinovika 2.3M followers)",
+      "description": "<p>Train based on <strong>ChilloutMix</strong>, best weight is from 0.8 to 1.</p><p>Remember to add <strong>trigger word</strong> into your promtp.</p><p>*****************************************************</p><p>Get access to numerous exclusive hand-picked LORA for free by joining our membership for only $5 per month! Visit <a target=\"_blank\" rel=\"ugc\" href=\"https://ko-fi.com/ai_imaging\">https://ko-fi.com/ai_imaging</a> to sign up</p><p>You can request your custom LORA through my Ko-fi page at <a target=\"_blank\" rel=\"ugc\" href=\"https://ko-fi.com/ai_imaging/commissions\"><strong><u>https://ko-fi.com/ai_imaging/commissions</u></strong></a>.</p><p>Feel free to reach out to talk about what you need</p><p>Thank you for choosing AI Imaging: The new ERA!</p><p>******************************************************</p><p>In our Telegram channel -<strong> </strong><a target=\"_blank\" rel=\"ugc\" href=\"http://t.me/gaidep69\"><strong>AI Imaging: The new ERA</strong></a> you'll find exciting content related to AI and imaging.</p><p>We also have a Telegram group <a target=\"_blank\" rel=\"ugc\" href=\"https://t.me/gaidep6996\"><strong>Free Group- AI Imaging</strong></a> where you can engage in discussions and connect with like-minded individuals.</p><p>Additionally, on our YouTube channel - <a target=\"_blank\" rel=\"ugc\" href=\"https://www.youtube.com/channel/UCQ4LyalfNNNS0U2_ZmEavAA/\"><strong>AI Imaging Studio</strong></a>, you can explore a wide range of AI-related content.</p>",
+      "type": "LORA",
+      "poi": true,
+      "nsfw": false,
+      "allowNoCredit": true,
+      "allowCommercialUse": "Sell",
+      "allowDerivatives": true,
+      "allowDifferentLicense": true,
+      "stats": {
+        "downloadCount": 153,
+        "favoriteCount": 18,
+        "commentCount": 0,
+        "ratingCount": 0,
+        "rating": 0
+      },
+      "creator": {
+        "username": "AI_Imaging",
+        "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/f2048ed7-1e73-4efb-a743-38b35275c4f8/width=96/AI_Imaging.jpeg"
+      },
+      "tags": [
+        "photorealistic",
+        "female",
+        "woman",
+        "celebrity",
+        "realistic"
+      ],
+      "modelVersions": [
+        {
+          "id": 150923,
+          "modelId": 136796,
+          "name": "v1.0",
+          "createdAt": "2023-08-29T09:40:30.818Z",
+          "updatedAt": "2023-08-29T09:44:17.185Z",
+          "trainedWords": [
+            "viviinovika"
+          ],
+          "trainingStatus": null,
+          "trainingDetails": null,
+          "baseModel": "SD 1.5",
+          "baseModelType": null,
+          "earlyAccessTimeFrame": 0,
+          "description": null,
+          "vaeId": null,
+          "stats": {
+            "downloadCount": 153,
+            "ratingCount": 0,
+            "rating": 0
+          },
+          "files": [
+            {
+              "id": 112239,
+              "sizeKB": 36978.373046875,
+              "name": "viviinovika-12.safetensors",
+              "type": "Model",
+              "metadata": {
+                "fp": null,
+                "size": null,
+                "format": "SafeTensor"
+              },
+              "pickleScanResult": "Success",
+              "pickleScanMessage": "No Pickle imports",
+              "virusScanResult": "Success",
+              "virusScanMessage": null,
+              "scannedAt": "2023-08-29T09:45:54.368Z",
+              "hashes": {
+                "AutoV1": "02270A32",
+                "AutoV2": "EAF1A2AF12",
+                "SHA256": "EAF1A2AF12AE896666561502787FB50977BD3CD0DF9C6788AA7DEC8564A0A952",
+                "CRC32": "E0268E22",
+                "BLAKE3": "BA3314783ED867CF86E58FC8016ACE6E9C37EB70D7492A1512A4432D88FC7716"
+              },
+              "downloadUrl": "https://civitai.com/api/download/models/150923",
+              "primary": true
+            }
+          ],
+          "images": "SAFE",
+          "downloadUrl": "https://civitai.com/api/download/models/150923"
+        }
+      ]
+    },
+    {
+      "id": 136799,
+      "name": "humu",
+      "description": "<p>i haven't test it much, just sharing</p><p>Dynamic Thresholding is a must have for this model</p><p>my settings</p><p>20 cfg,7 mimic cfg,half cosine up 3,half cosine up 3</p><p><a target=\"_blank\" rel=\"ugc\" href=\"https://github.com/mcmonkeyprojects/sd-dynamic-thresholding\">https://github.com/mcmonkeyprojects/sd-dynamic-thresholding</a></p>",
+      "type": "Checkpoint",
+      "poi": false,
+      "nsfw": false,
+      "allowNoCredit": true,
+      "allowCommercialUse": "None",
+      "allowDerivatives": true,
+      "allowDifferentLicense": true,
+      "stats": {
+        "downloadCount": 489,
+        "favoriteCount": 78,
+        "commentCount": 1,
+        "ratingCount": 5,
+        "rating": 5
+      },
+      "creator": {
+        "username": "weed",
+        "image": "https://lh3.googleusercontent.com/a/AEdFTp7xzZcR-WC12KDGBktljrdd6MY2z0YOpyy2oMhj=s96-c"
+      },
+      "tags": [
+        "character",
+        "photorealistic",
+        "sexy",
+        "female",
+        "woman",
+        "girls",
+        "realistic"
+      ],
+      "modelVersions": [
+        {
+          "id": 150925,
+          "modelId": 136799,
+          "name": "v1.0",
+          "createdAt": "2023-08-29T09:44:50.108Z",
+          "updatedAt": "2023-08-29T12:20:45.148Z",
+          "trainedWords": [],
+          "trainingStatus": null,
+          "trainingDetails": null,
+          "baseModel": "SD 1.5",
+          "baseModelType": "Standard",
+          "earlyAccessTimeFrame": 0,
+          "description": null,
+          "vaeId": null,
+          "stats": {
+            "downloadCount": 489,
+            "ratingCount": 5,
+            "rating": 5
+          },
+          "files": [
+            {
+              "id": 112302,
+              "sizeKB": 2323025.5234375,
+              "name": "humu_v10.safetensors",
+              "type": "Model",
+              "metadata": {
+                "fp": "fp16",
+                "size": "pruned",
+                "format": "SafeTensor"
+              },
+              "pickleScanResult": "Success",
+              "pickleScanMessage": "No Pickle imports",
+              "virusScanResult": "Success",
+              "virusScanMessage": null,
+              "scannedAt": "2023-08-29T12:16:24.711Z",
+              "hashes": {
+                "AutoV1": "D04C4588",
+                "AutoV2": "7BDB5ED888",
+                "SHA256": "7BDB5ED888FB292F98F528D5A27C68A1CC34D3D8A0724C293810CC067F932820",
+                "CRC32": "BF62B35D",
+                "BLAKE3": "513F4E016ED8B50445CAA4770B71362114AB74E4561C02940CDC9A05A95810BA"
+              },
+              "downloadUrl": "https://civitai.com/api/download/models/150925",
+              "primary": true
+            }
+          ],
+          "images": "PARTIAL",
+          "downloadUrl": "https://civitai.com/api/download/models/150925"
+        }
+      ]
+    },
+    {
+      "id": 136800,
+      "name": "たつか ひろし　ミディアムヘア/小顔ヘア/前髪カット (@tatsukahiroshi)",
+      "description": "<p>Train based on <strong>ChilloutMix</strong>, best weight is from 0.8 to 1.</p><p>Remember to add <strong>trigger word</strong> into your promtp.</p><p>*****************************************************</p><p>Get access to numerous exclusive hand-picked LORA for free by joining our membership for only $5 per month! Visit <a target=\"_blank\" rel=\"ugc\" href=\"https://ko-fi.com/ai_imaging\">https://ko-fi.com/ai_imaging</a> to sign up</p><p>You can request your custom LORA through my Ko-fi page at <a target=\"_blank\" rel=\"ugc\" href=\"https://ko-fi.com/ai_imaging/commissions\"><strong><u>https://ko-fi.com/ai_imaging/commissions</u></strong></a>.</p><p>Feel free to reach out to talk about what you need</p><p>Thank you for choosing AI Imaging: The new ERA!</p><p>******************************************************</p><p>In our Telegram channel -<strong> </strong><a target=\"_blank\" rel=\"ugc\" href=\"http://t.me/gaidep69\"><strong>AI Imaging: The new ERA</strong></a> you'll find exciting content related to AI and imaging.</p><p>We also have a Telegram group <a target=\"_blank\" rel=\"ugc\" href=\"https://t.me/gaidep6996\"><strong>Free Group- AI Imaging</strong></a> where you can engage in discussions and connect with like-minded individuals.</p><p>Additionally, on our YouTube channel - <a target=\"_blank\" rel=\"ugc\" href=\"https://www.youtube.com/channel/UCQ4LyalfNNNS0U2_ZmEavAA/\"><strong>AI Imaging Studio</strong></a>, you can explore a wide range of AI-related content.</p>",
+      "type": "LORA",
+      "poi": true,
+      "nsfw": false,
+      "allowNoCredit": true,
+      "allowCommercialUse": "Sell",
+      "allowDerivatives": true,
+      "allowDifferentLicense": true,
+      "stats": {
+        "downloadCount": 297,
+        "favoriteCount": 57,
+        "commentCount": 0,
+        "ratingCount": 0,
+        "rating": 0
+      },
+      "creator": {
+        "username": "AI_Imaging",
+        "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/f2048ed7-1e73-4efb-a743-38b35275c4f8/width=96/AI_Imaging.jpeg"
+      },
+      "tags": [
+        "photorealistic",
+        "female",
+        "woman",
+        "celebrity",
+        "realistic"
+      ],
+      "modelVersions": [
+        {
+          "id": 150926,
+          "modelId": 136800,
+          "name": "v1.0",
+          "createdAt": "2023-08-29T09:46:04.725Z",
+          "updatedAt": "2023-08-29T09:47:06.719Z",
+          "trainedWords": [
+            "tatsukahiroshi"
+          ],
+          "trainingStatus": null,
+          "trainingDetails": null,
+          "baseModel": "SD 1.5",
+          "baseModelType": null,
+          "earlyAccessTimeFrame": 0,
+          "description": null,
+          "vaeId": null,
+          "stats": {
+            "downloadCount": 297,
+            "ratingCount": 0,
+            "rating": 0
+          },
+          "files": [
+            {
+              "id": 112240,
+              "sizeKB": 36984.2802734375,
+              "name": "tatsukahiroshi-13.safetensors",
+              "type": "Model",
+              "metadata": {
+                "fp": null,
+                "size": null,
+                "format": "SafeTensor"
+              },
+              "pickleScanResult": "Success",
+              "pickleScanMessage": "No Pickle imports",
+              "virusScanResult": "Success",
+              "virusScanMessage": null,
+              "scannedAt": "2023-08-29T09:50:40.738Z",
+              "hashes": {
+                "AutoV1": "6146FE65",
+                "AutoV2": "52ACC369E4",
+                "SHA256": "52ACC369E484365CA8A2A8C3D667C020328E7DB4F03E9D6504AEF1B0764A8A85",
+                "CRC32": "A04E0670",
+                "BLAKE3": "B6A01C863726728A52CC150B392DD29107E3C511E89C7BB3A93EA129F7E237D0"
+              },
+              "downloadUrl": "https://civitai.com/api/download/models/150926",
+              "primary": true
+            }
+          ],
+          "images": "SAFE",
+          "downloadUrl": "https://civitai.com/api/download/models/150926"
+        }
+      ]
+    },
+    {
+      "id": 136803,
+      "name": "S.A.C. 2nd GIG OP style",
+      "description": "<p>This is LoRA for reproducing the Japanese internet meme 'Koukaku dachi.'</p><p></p><p>The recommended values and generation process below are just one example, and there may be better ways to achieve results.</p><p></p><p>I'm looking forward to seeing the images you create.</p><hr /><p>chatGPTによる翻訳</p><p>日本のネットミーム『攻殻立ち』を再現するためのLoRAです</p><p>下記推奨値と生成手順は一例であり、より良い結果を生む方法があるかもしれません</p><p>あなたの生成した画像を楽しみにしています</p><hr /><h3 id=\"heading-685\">recommend textencoder ＆ u-net encoder strength</h3><p><strong>textencoder「0」、u-net「0.6~0.8」</strong></p><p><strong>ex.）　&lt;lora:SAC_2ndGIG_OP:0:0.7&gt;</strong></p><p></p><h3 id=\"heading-686\">how to generate</h3><p><strong>１．generate txt2img「W:768 H:512」</strong></p><p><strong>２．send img2img</strong></p><p><strong>　　Resize by scale「3」</strong></p><p><strong>　　CFG scale「5～9」</strong></p><p><strong>　　denoiseing strength「0.45～0.6」</strong></p><p><strong>３．generate!</strong></p>",
+      "type": "LORA",
+      "poi": false,
+      "nsfw": false,
+      "allowNoCredit": false,
+      "allowCommercialUse": "None",
+      "allowDerivatives": true,
+      "allowDifferentLicense": false,
+      "stats": {
+        "downloadCount": 257,
+        "favoriteCount": 54,
+        "commentCount": 0,
+        "ratingCount": 1,
+        "rating": 5
+      },
+      "creator": {
+        "username": "AI_slave"
+      },
+      "tags": [
+        "anime",
+        "concept"
+      ],
+      "modelVersions": [
+        {
+          "id": 150936,
+          "modelId": 136803,
+          "name": "v1.0",
+          "createdAt": "2023-08-29T10:05:14.949Z",
+          "updatedAt": "2023-08-29T11:43:36.405Z",
+          "trainedWords": [],
+          "trainingStatus": null,
+          "trainingDetails": null,
+          "baseModel": "SD 1.5",
+          "baseModelType": null,
+          "earlyAccessTimeFrame": 0,
+          "description": null,
+          "vaeId": null,
+          "stats": {
+            "downloadCount": 257,
+            "ratingCount": 1,
+            "rating": 5
+          },
+          "files": [
+            {
+              "id": 112252,
+              "sizeKB": 36981.7470703125,
+              "name": "SAC_2ndGIG_OP.safetensors",
+              "type": "Model",
+              "metadata": {
+                "fp": null,
+                "size": null,
+                "format": "SafeTensor"
+              },
+              "pickleScanResult": "Success",
+              "pickleScanMessage": "No Pickle imports",
+              "virusScanResult": "Success",
+              "virusScanMessage": null,
+              "scannedAt": "2023-08-29T10:10:44.564Z",
+              "hashes": {
+                "AutoV1": "B73A0237",
+                "AutoV2": "344F930FE5",
+                "SHA256": "344F930FE5F12390EBD9EE7177D304CF6895ABBF439F172A72A9DC25BD07815C",
+                "CRC32": "8BB80F71",
+                "BLAKE3": "BED01543DC9F9345A78D0294A8663B5392BC4CC8E123C8628DF5D9879DFA574B"
+              },
+              "downloadUrl": "https://civitai.com/api/download/models/150936",
+              "primary": true
+            }
+          ],
+          "images": "SAFE",
+          "downloadUrl": "https://civitai.com/api/download/models/150936"
+        }
+      ]
+    },
+    {
+      "id": 136804,
+      "name": "Kuiil XL",
+      "description": "<p><strong>Kuiil XL by TheLastBen</strong></p><p>It works well with portrait aspect ratio</p><p></p><p><strong>Prompts to start with :</strong></p><p>kuiil riding a bicycle, still frame, 4k</p><p></p><hr /><p>Trained using <a target=\"_blank\" rel=\"ugc\" href=\"https://github.com/TheLastBen/fast-stable-diffusion\"><strong><u>https://github.com/TheLastBen/fast-stable-diffusion</u></strong></a> SDXL trainer.</p><p>ComfyUI seems to give better results than A1111, but that's just me.</p>",
+      "type": "LORA",
+      "poi": false,
+      "nsfw": false,
+      "allowNoCredit": false,
+      "allowCommercialUse": "None",
+      "allowDerivatives": false,
+      "allowDifferentLicense": true,
+      "stats": {
+        "downloadCount": 75,
+        "favoriteCount": 7,
+        "commentCount": 0,
+        "ratingCount": 0,
+        "rating": 0
+      },
+      "creator": {
+        "username": "TheLastBen",
+        "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/f7554c7a-dd14-45d8-8fc1-b96b62ad9a00/width=96/TheLastBen.jpeg"
+      },
+      "tags": [
+        "character",
+        "star wars",
+        "the mandalorian",
+        "kuiil"
+      ],
+      "modelVersions": [
+        {
+          "id": 150927,
+          "modelId": 136804,
+          "name": "v1.0",
+          "createdAt": "2023-08-29T09:51:42.833Z",
+          "updatedAt": "2023-08-29T10:15:41.118Z",
+          "trainedWords": [
+            "kuiil"
+          ],
+          "trainingStatus": null,
+          "trainingDetails": null,
+          "baseModel": "SDXL 1.0",
+          "baseModelType": null,
+          "earlyAccessTimeFrame": 0,
+          "description": null,
+          "vaeId": null,
+          "stats": {
+            "downloadCount": 75,
+            "ratingCount": 0,
+            "rating": 0
+          },
+          "files": [
+            {
+              "id": 112247,
+              "sizeKB": 332798.939453125,
+              "name": "kuiil.safetensors",
+              "type": "Model",
+              "metadata": {
+                "fp": null,
+                "size": null,
+                "format": "SafeTensor"
+              },
+              "pickleScanResult": "Success",
+              "pickleScanMessage": "No Pickle imports",
+              "virusScanResult": "Success",
+              "virusScanMessage": null,
+              "scannedAt": "2023-08-29T10:06:12.619Z",
+              "hashes": {
+                "AutoV1": "6BF40796",
+                "AutoV2": "E6D04E1072",
+                "SHA256": "E6D04E1072BA332C9AB190E7B768FC5005137DF9B6C1387E57BAA6B39DEFEB64",
+                "CRC32": "1CAE4A7D",
+                "BLAKE3": "9997CB55057F808F44737AD0AEE726C09B1B7E2A4FAA14369F5669085DD4EC50"
+              },
+              "downloadUrl": "https://civitai.com/api/download/models/150927",
+              "primary": true
+            }
+          ],
+          "images": "SAFE",
+          "downloadUrl": "https://civitai.com/api/download/models/150927"
+        }
+      ]
+    },
+    {
+      "id": 136805,
+      "name": "RPGBeggar",
+      "description": "<p>This is a LoRA (1.5) for creating BEGGARS for use in rpgs.</p><p></p><p>The trigger words for the model are the following:</p><pre><code>1boy, 1girl, backpack, bag, basket, beard, beggar, black hair, blonde hair, blue eyes, blurry, blurry background, boots, bowl, bracelet, breasts, brown eyes, brown footwear, brown hair, bucket, cleavage, day, denim, denim jacket, depth of field, dirty, dirty face, dress, facial hair, freckles, gloves, hat, hood, hoodie, indian style, indoors, jacket, jeans, jewelry, lips, long hair, long sleeves, looking at viewer, male focus, messy hair, mole, multiple boys, mustache, necklace, old, old man, outdoors, own hands together, pants, realistic, ring, rock, ruins, scar, shirt, shoes, sitting, skirt, solo, solo focus, squatting, stairs, street, stubble, tattoo, trash bag, wavy hair, white hair, </code></pre>",
+      "type": "LORA",
+      "poi": false,
+      "nsfw": false,
+      "allowNoCredit": false,
+      "allowCommercialUse": "Rent",
+      "allowDerivatives": true,
+      "allowDifferentLicense": true,
+      "stats": {
+        "downloadCount": 287,
+        "favoriteCount": 38,
+        "commentCount": 2,
+        "ratingCount": 0,
+        "rating": 0
+      },
+      "creator": {
+        "username": "ashrpg"
+      },
+      "tags": [
+        "character",
+        "person",
+        "fantasy",
+        "rpg",
+        "characters",
+        "lora"
+      ],
+      "modelVersions": [
+        {
+          "id": 150928,
+          "modelId": 136805,
+          "name": "v1.0",
+          "createdAt": "2023-08-29T09:54:09.670Z",
+          "updatedAt": "2023-08-29T09:57:08.154Z",
+          "trainedWords": [
+            "beggar"
+          ],
+          "trainingStatus": null,
+          "trainingDetails": null,
+          "baseModel": "SD 1.5",
+          "baseModelType": null,
+          "earlyAccessTimeFrame": 0,
+          "description": "<p>initial 1.5 version</p>",
+          "vaeId": null,
+          "stats": {
+            "downloadCount": 287,
+            "ratingCount": 0,
+            "rating": 0
+          },
+          "files": [
+            {
+              "id": 112242,
+              "sizeKB": 9326.1875,
+              "name": "RPGBeggar.safetensors",
+              "type": "Model",
+              "metadata": {
+                "fp": null,
+                "size": null,
+                "format": "SafeTensor"
+              },
+              "pickleScanResult": "Success",
+              "pickleScanMessage": "No Pickle imports",
+              "virusScanResult": "Success",
+              "virusScanMessage": null,
+              "scannedAt": "2023-08-29T09:55:30.643Z",
+              "hashes": {
+                "AutoV1": "E8955C95",
+                "AutoV2": "8616AA4067",
+                "SHA256": "8616AA406745497E6D862734803E7F729FE8B390B7A8A6DEDB5B6FD5522D62B7",
+                "CRC32": "594D02D3",
+                "BLAKE3": "445926713D8939EF0C7780EB4C1C2E36BE033F0D7EA0C3DD9E08FAFE6DCA545C"
+              },
+              "downloadUrl": "https://civitai.com/api/download/models/150928",
+              "primary": true
+            }
+          ],
+          "images": "SAFE",
+          "downloadUrl": "https://civitai.com/api/download/models/150928"
+        }
+      ]
+    },
+    {
+      "id": 136806,
+      "name": "Alcina dimitrescu",
+      "description": "<p>Alcina dimitrescu model u can create realistic or anime model both.</p><p>use simple alcina_dimitrescu tag to use.</p><p>give comment or reviews the model.</p>",
+      "type": "LORA",
+      "poi": false,
+      "nsfw": false,
+      "allowNoCredit": true,
+      "allowCommercialUse": "Rent",
+      "allowDerivatives": true,
+      "allowDifferentLicense": true,
+      "stats": {
+        "downloadCount": 202,
+        "favoriteCount": 53,
+        "commentCount": 0,
+        "ratingCount": 0,
+        "rating": 0
+      },
+      "creator": {
+        "username": "YuukiRuyam",
+        "image": "https://avatars.githubusercontent.com/u/87483716?v=4"
+      },
+      "tags": [
+        "character",
+        "sexy",
+        "female",
+        "girls"
+      ],
+      "modelVersions": [
+        {
+          "id": 150932,
+          "modelId": 136806,
+          "name": "v1.0",
+          "createdAt": "2023-08-29T09:59:33.336Z",
+          "updatedAt": "2023-08-29T10:01:33.540Z",
+          "trainedWords": [
+            "alcina_dimitrescu",
+            "hat",
+            "white gown",
+            "yellow eye",
+            "smoking"
+          ],
+          "trainingStatus": null,
+          "trainingDetails": null,
+          "baseModel": "Other",
+          "baseModelType": null,
+          "earlyAccessTimeFrame": 0,
+          "description": null,
+          "vaeId": null,
+          "stats": {
+            "downloadCount": 202,
+            "ratingCount": 0,
+            "rating": 0
+          },
+          "files": [
+            {
+              "id": 112244,
+              "sizeKB": 18551.98828125,
+              "name": "alcina_dimitrescu-10.safetensors",
+              "type": "Model",
+              "metadata": {
+                "fp": null,
+                "size": null,
+                "format": "SafeTensor"
+              },
+              "pickleScanResult": "Success",
+              "pickleScanMessage": "No Pickle imports",
+              "virusScanResult": "Success",
+              "virusScanMessage": null,
+              "scannedAt": "2023-08-29T10:06:23.698Z",
+              "hashes": {
+                "AutoV1": "DE2F2560",
+                "AutoV2": "B978FD8557",
+                "SHA256": "B978FD855777558C9C0C0B76259CFE38CA6582FCCAB46C250DAA06BA186275F2",
+                "CRC32": "E230BE09",
+                "BLAKE3": "590AB2AE14559FD66AA4E86D9174B20B0CC23FDBEAF5633BEB3C64E3002D4C43"
+              },
+              "downloadUrl": "https://civitai.com/api/download/models/150932",
+              "primary": true
+            }
+          ],
+          "images": "NSFW",
+          "downloadUrl": "https://civitai.com/api/download/models/150932"
+        }
+      ]
+    },
+    {
+      "id": 136808,
+      "name": "Kururugi Yuu(枢木ユウ) - Hololive Alternative",
+      "description": "<p>This is the lora about Kururugi Yuu(<strong>枢木ユウ</strong>), the avatar character in Hololive Alternative / Holoearth.<br /><br />Weight : 0.7<br />Prompt : <code>kururugi yuu, short hair, jacket, pleated skirt, headphones, pantyhose</code></p>",
+      "type": "LORA",
+      "poi": false,
+      "nsfw": false,
+      "allowNoCredit": true,
+      "allowCommercialUse": "Rent",
+      "allowDerivatives": false,
+      "allowDifferentLicense": true,
+      "stats": {
+        "downloadCount": 161,
+        "favoriteCount": 28,
+        "commentCount": 0,
+        "ratingCount": 0,
+        "rating": 0
+      },
+      "creator": {
+        "username": "azki_is_very_cute",
+        "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/e6cd95fc-64cf-48ad-850a-5a3c453c5e49/width=96/azki_is_very_cute.jpeg"
+      },
+      "tags": [
+        "anime",
+        "character",
+        "hololive"
+      ],
+      "modelVersions": [
+        {
+          "id": 150930,
+          "modelId": 136808,
+          "name": "v1.0",
+          "createdAt": "2023-08-29T09:57:30.146Z",
+          "updatedAt": "2023-08-29T10:08:06.009Z",
+          "trainedWords": [
+            "kururugi yuu",
+            "short hair",
+            "jacket",
+            "pleated skirt",
+            "headphones",
+            "pantyhose"
+          ],
+          "trainingStatus": null,
+          "trainingDetails": null,
+          "baseModel": "SD 1.5",
+          "baseModelType": null,
+          "earlyAccessTimeFrame": 0,
+          "description": "<p>kururugi yuu, short hair, jacket, pleated skirt, headphones, pantyhose</p>",
+          "vaeId": null,
+          "stats": {
+            "downloadCount": 161,
+            "ratingCount": 0,
+            "rating": 0
+          },
+          "files": [
+            {
+              "id": 112248,
+              "sizeKB": 36980.912109375,
+              "name": "holoearth_yuu-10.safetensors",
+              "type": "Model",
+              "metadata": {
+                "fp": null,
+                "size": null,
+                "format": "SafeTensor"
+              },
+              "pickleScanResult": "Success",
+              "pickleScanMessage": "No Pickle imports",
+              "virusScanResult": "Success",
+              "virusScanMessage": null,
+              "scannedAt": "2023-08-29T10:05:59.823Z",
+              "hashes": {
+                "AutoV1": "A971FC0B",
+                "AutoV2": "1235B04191",
+                "SHA256": "1235B04191F883DB73ABB9580ABBDD73E4A9232E1E8780109AACDFBCD6EB7E6D",
+                "CRC32": "63CEC034",
+                "BLAKE3": "3B0FA36F249EA630BCFBF97B4CC83E1CF55C13302F66FFB2FAC20E9A30FB0AE0"
+              },
+              "downloadUrl": "https://civitai.com/api/download/models/150930",
+              "primary": true
+            }
+          ],
+          "images": "SAFE",
+          "downloadUrl": "https://civitai.com/api/download/models/150930"
+        }
+      ]
+    },
+    {
+      "id": 136809,
+      "name": "SNSD Hyoyeon (효연)",
+      "description": "<p><strong><span>Trigger: </span></strong><span>hyoyeonlorashy</span></p><p><strong><span>Best weight:</span></strong><span> 0.85 ~ 1</span></p><p><strong><span>Model:</span></strong><span> chilloutmix &amp; majicMIX</span></p><p><strong><span>Resolution:</span></strong><span> 512 x 768, 768 x 512, etc.</span></p><p><span>Using Hires/ADetailer is recommended for better result!</span></p><p><strong><span>((The V2 versions of any models will be exclusively accessible on my Ko-fi page))</span></strong><span><br />Consider donating for my work </span><a target=\"_blank\" rel=\"ugc\" href=\"https://ko-fi.com/supashy\"><span>here</span></a><span>!<br />Custom LoRa making service </span><a target=\"_blank\" rel=\"ugc\" href=\"https://ko-fi.com/supashy/commissions\"><span>here</span></a><span>!<br />Custom image generation service </span><a target=\"_blank\" rel=\"ugc\" href=\"https://ko-fi.com/supashy/commissions\"><span>here</span></a><span>!</span></p>",
+      "type": "LORA",
+      "poi": true,
+      "nsfw": false,
+      "allowNoCredit": true,
+      "allowCommercialUse": "RentCivit",
+      "allowDerivatives": false,
+      "allowDifferentLicense": true,
+      "stats": {
+        "downloadCount": 191,
+        "favoriteCount": 29,
+        "commentCount": 0,
+        "ratingCount": 2,
+        "rating": 4.5
+      },
+      "creator": {
+        "username": "supashy",
+        "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ac924ff5-5bba-4cf2-b8a6-2b8826541c9c/width=96/supashy.jpeg"
+      },
+      "tags": [
+        "kpop",
+        "woman",
+        "celebrity",
+        "kpop idol"
+      ],
+      "modelVersions": [
+        {
+          "id": 150931,
+          "modelId": 136809,
+          "name": "v1.0",
+          "createdAt": "2023-08-29T09:59:24.472Z",
+          "updatedAt": "2023-09-06T22:25:24.123Z",
+          "trainedWords": [
+            "hyoyeonlorashy"
+          ],
+          "trainingStatus": null,
+          "trainingDetails": null,
+          "baseModel": "SD 1.5",
+          "baseModelType": null,
+          "earlyAccessTimeFrame": 0,
+          "description": null,
+          "vaeId": null,
+          "stats": {
+            "downloadCount": 191,
+            "ratingCount": 2,
+            "rating": 4.5
+          },
+          "files": [
+            {
+              "id": 112249,
+              "sizeKB": 36983.4873046875,
+              "name": "hyoyeonlorashy.safetensors",
+              "type": "Model",
+              "metadata": {
+                "fp": null,
+                "size": null,
+                "format": "SafeTensor"
+              },
+              "pickleScanResult": "Success",
+              "pickleScanMessage": "No Pickle imports",
+              "virusScanResult": "Success",
+              "virusScanMessage": null,
+              "scannedAt": "2023-08-29T10:06:02.549Z",
+              "hashes": {
+                "AutoV1": "D14C76A3",
+                "AutoV2": "68149A46A0",
+                "SHA256": "68149A46A038982F1ED59B6B498393166BFBC015E17A271857B8B148A0F92291",
+                "CRC32": "DCC59CFB",
+                "BLAKE3": "DD4AF42A6F250AFC63DC594793571B77FA7923A2D5FD6EC047D641EC33FCF083"
+              },
+              "downloadUrl": "https://civitai.com/api/download/models/150931",
+              "primary": true
+            }
+          ],
+          "images": "SAFE",
+          "downloadUrl": "https://civitai.com/api/download/models/150931"
+        }
+      ]
+    },
+    {
+      "id": 136810,
+      "name": "江风-碧蓝航线（Kawakaze-Azur Lane）",
+      "description": "<h3 id=\"heading-16\"><strong><span style=\"color:rgb(250, 82, 82)\">请先看底部说明！</span></strong></h3><h3 id=\"heading-17\"><strong><span style=\"color:rgb(250, 82, 82)\">Please read the description at the bottom first!</span></strong></h3><p>这是游戏《<strong><span style=\"color:rgb(34, 139, 230)\">碧蓝航线</span></strong>》中的<strong><span style=\"color:#4c6ef5\">江风</span></strong>，推荐权重为0.6-1.0。</p><p>This is <strong><span style=\"color:#4c6ef5\">Kawakaze</span></strong> from the game \"<strong><span style=\"color:rgb(34, 139, 230)\">Azur Lane</span></strong>\".The recommended weight is 0.6-1.0,</p><p></p><h3 id=\"heading-41\"><span style=\"color:rgb(250, 82, 82)\">喜欢就点个红心吧，谢谢。</span></h3><h3 id=\"heading-42\"><span style=\"color:rgb(250, 82, 82)\">If you like it, just order a red heart,thank you.</span></h3>",
+      "type": "LORA",
+      "poi": false,
+      "nsfw": false,
+      "allowNoCredit": false,
+      "allowCommercialUse": "None",
+      "allowDerivatives": false,
+      "allowDifferentLicense": true,
+      "stats": {
+        "downloadCount": 238,
+        "favoriteCount": 55,
+        "commentCount": 0,
+        "ratingCount": 3,
+        "rating": 5
+      },
+      "creator": {
+        "username": "King_dong",
+        "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/6fb81744-cdd1-46d4-968f-ea3ad1fc307e/width=96/King_dong.jpeg"
+      },
+      "tags": [
+        "character",
+        "female",
+        "azur lane",
+        "girls",
+        "game"
+      ],
+      "modelVersions": [
+        {
+          "id": 150933,
+          "modelId": 136810,
+          "name": "v1.0",
+          "createdAt": "2023-08-29T10:02:26.134Z",
+          "updatedAt": "2023-08-29T10:14:22.343Z",
+          "trainedWords": [
+            "(masterpiece, best quality:1.2),illustration,8k,hd,1girls,solo,animal_ears,fox_ears,long_hair,blue_eyes,bangs,grey_hair,hair_between_eyes,white_hair,tail,breasts,white_kimono,wide_sleeves,detached_sleeves,sidelocks,long_sleeves,obi,sash,<lora:kawakaze:1>,"
+          ],
+          "trainingStatus": null,
+          "trainingDetails": null,
+          "baseModel": "SD 1.5",
+          "baseModelType": null,
+          "earlyAccessTimeFrame": 0,
+          "description": null,
+          "vaeId": null,
+          "stats": {
+            "downloadCount": 238,
+            "ratingCount": 3,
+            "rating": 5
+          },
+          "files": [
+            {
+              "id": 112257,
+              "sizeKB": 36985.5,
+              "name": "kawakaze.safetensors",
+              "type": "Model",
+              "metadata": {
+                "fp": null,
+                "size": null,
+                "format": "SafeTensor"
+              },
+              "pickleScanResult": "Success",
+              "pickleScanMessage": "No Pickle imports",
+              "virusScanResult": "Success",
+              "virusScanMessage": null,
+              "scannedAt": "2023-08-29T10:15:56.561Z",
+              "hashes": {
+                "AutoV1": "A525FDFB",
+                "AutoV2": "2148B08198",
+                "SHA256": "2148B081986B097EA18B08C4C6815E1F01115D7364A0334BFA5D9857F3707ABE",
+                "CRC32": "D0779FB4",
+                "BLAKE3": "7FF2D71C7203BD254B27EFC1ED6883C835FEBB279B8AB3AD44CC27C6866A4547"
+              },
+              "downloadUrl": "https://civitai.com/api/download/models/150933",
+              "primary": true
+            }
+          ],
+          "images": "PARTIAL",
+          "downloadUrl": "https://civitai.com/api/download/models/150933"
+        }
+      ]
+    },
+    {
+      "id": 136811,
+      "name": "EdobComic01",
+      "description": "<p>Comic Style Lora</p><p>Try to do, a Comic Style Lora, generates pretty good images</p><p>Download file and use tags of file on prompt</p><p>You can create a comic style images, combine the tags and view the results</p><p>For example write your novel with ChatGPT and then give life to the text using this lora to create the comics images.</p><p>Hope you like it.</p><p>Have fun!</p><p><strong><em><span style=\"color:rgb(190, 75, 219)\">If you like this work, try support me, click here &gt;&gt;</span></em></strong><a target=\"_blank\" rel=\"ugc\" href=\"https://www.paypal.com/donate/?hosted_button_id=6WME6V5YAG7NS\"><strong><em><span style=\"color:rgb(253, 126, 20)\">DONATE</span></em></strong></a><strong><em><span style=\"color:rgb(190, 75, 219)\">&lt;&lt;. TIA!</span></em></strong></p>",
+      "type": "LORA",
+      "poi": false,
+      "nsfw": false,
+      "allowNoCredit": true,
+      "allowCommercialUse": "Sell",
+      "allowDerivatives": true,
+      "allowDifferentLicense": true,
+      "stats": {
+        "downloadCount": 481,
+        "favoriteCount": 100,
+        "commentCount": 2,
+        "ratingCount": 2,
+        "rating": 4.5
+      },
+      "creator": {
+        "username": "edobgames",
+        "image": "https://lh3.googleusercontent.com/a/AGNmyxZHJIAjM1ihaHOd-Ucp67sHveNX-EKpuZxMTl5BKw=s96-c"
+      },
+      "tags": [
+        "magazine",
+        "comics",
+        "style",
+        "cartoon"
+      ],
+      "modelVersions": [
+        {
+          "id": 150934,
+          "modelId": 136811,
+          "name": "v1.0",
+          "createdAt": "2023-08-29T10:04:42.280Z",
+          "updatedAt": "2023-08-29T10:07:46.885Z",
+          "trainedWords": [],
+          "trainingStatus": null,
+          "trainingDetails": null,
+          "baseModel": "SD 1.5",
+          "baseModelType": null,
+          "earlyAccessTimeFrame": 0,
+          "description": "<p>For trigger words download the file and see the tags you can use</p>",
+          "vaeId": null,
+          "stats": {
+            "downloadCount": 481,
+            "ratingCount": 2,
+            "rating": 4.5
+          },
+          "files": [
+            {
+              "id": 112253,
+              "sizeKB": 1.5126953125,
+              "name": "EdobComic01.zip",
+              "type": "Training Data",
+              "metadata": {
+                "fp": null,
+                "size": null,
+                "format": "Other"
+              },
+              "pickleScanResult": "Success",
+              "pickleScanMessage": "No Pickle imports",
+              "virusScanResult": "Success",
+              "virusScanMessage": null,
+              "scannedAt": "2023-08-29T10:10:45.881Z",
+              "hashes": {
+                "AutoV2": "090F183A6C",
+                "SHA256": "090F183A6CD673F7B09683AD9D2ADE7D97394775FD2314131BE4E1F68D6DE546",
+                "CRC32": "CA59550A",
+                "BLAKE3": "CE0D5A6E26E89F900D2500E29FF474F35A4BEFB571055D65C93CE1B4DDE25335"
+              },
+              "downloadUrl": "https://civitai.com/api/download/models/150934?type=Training%20Data"
+            },
+            {
+              "id": 112251,
+              "sizeKB": 147574.7958984375,
+              "name": "EdobComic01_v1.0.safetensors",
+              "type": "Model",
+              "metadata": {
+                "fp": null,
+                "size": null,
+                "format": "SafeTensor"
+              },
+              "pickleScanResult": "Success",
+              "pickleScanMessage": "No Pickle imports",
+              "virusScanResult": "Success",
+              "virusScanMessage": null,
+              "scannedAt": "2023-08-29T10:10:43.292Z",
+              "hashes": {
+                "AutoV1": "F84D3D00",
+                "AutoV2": "D312DF6CA3",
+                "SHA256": "D312DF6CA3459C8DEC021214B8BBB324625E5777F003C6BFF9A27B89DA26362F",
+                "CRC32": "E117AB34",
+                "BLAKE3": "ABFA0D74854016C0236C1D914AA9AA57CDC8998B863481EDC0C5F16E1EBA5A6E"
+              },
+              "downloadUrl": "https://civitai.com/api/download/models/150934",
+              "primary": true
+            }
+          ],
+          "images": "SAFE",
+          "downloadUrl": "https://civitai.com/api/download/models/150934"
+        }
+      ]
+    },
+    {
+      "id": 136813,
+      "name": "SNSD Seohyun (서현)",
+      "description": "<p><strong><span>Trigger: </span></strong><span>seohyunlorashy</span></p><p><strong><span>Best weight:</span></strong><span> 0.85 ~ 1</span></p><p><strong><span>Model:</span></strong><span> chilloutmix &amp; majicMIX</span></p><p><strong><span>Resolution:</span></strong><span> 512 x 768, 768 x 512, etc.</span></p><p><span>Using Hires/ADetailer is recommended for better result!</span></p><p><strong><span>((The V2 versions of any models will be exclusively accessible on my Ko-fi page))</span></strong><span><br />Consider donating for my work </span><a target=\"_blank\" rel=\"ugc\" href=\"https://ko-fi.com/supashy\"><span>here</span></a><span>!<br />Custom LoRa making service </span><a target=\"_blank\" rel=\"ugc\" href=\"https://ko-fi.com/supashy/commissions\"><span>here</span></a><span>!<br />Custom image generation service </span><a target=\"_blank\" rel=\"ugc\" href=\"https://ko-fi.com/supashy/commissions\"><span>here</span></a><span>!</span></p>",
+      "type": "LORA",
+      "poi": true,
+      "nsfw": false,
+      "allowNoCredit": true,
+      "allowCommercialUse": "RentCivit",
+      "allowDerivatives": false,
+      "allowDifferentLicense": true,
+      "stats": {
+        "downloadCount": 249,
+        "favoriteCount": 33,
+        "commentCount": 0,
+        "ratingCount": 1,
+        "rating": 5
+      },
+      "creator": {
+        "username": "supashy",
+        "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ac924ff5-5bba-4cf2-b8a6-2b8826541c9c/width=96/supashy.jpeg"
+      },
+      "tags": [
+        "kpop",
+        "woman",
+        "kpop idol"
+      ],
+      "modelVersions": [
+        {
+          "id": 150935,
+          "modelId": 136813,
+          "name": "v1.0",
+          "createdAt": "2023-08-29T10:04:58.559Z",
+          "updatedAt": "2023-09-06T22:25:00.647Z",
+          "trainedWords": [
+            "seohyunlorashy"
+          ],
+          "trainingStatus": null,
+          "trainingDetails": null,
+          "baseModel": "SD 1.5",
+          "baseModelType": null,
+          "earlyAccessTimeFrame": 0,
+          "description": null,
+          "vaeId": null,
+          "stats": {
+            "downloadCount": 249,
+            "ratingCount": 1,
+            "rating": 5
+          },
+          "files": [
+            {
+              "id": 112250,
+              "sizeKB": 36983.3427734375,
+              "name": "seohyunlorashy.safetensors",
+              "type": "Model",
+              "metadata": {
+                "fp": null,
+                "size": null,
+                "format": "SafeTensor"
+              },
+              "pickleScanResult": "Success",
+              "pickleScanMessage": "No Pickle imports",
+              "virusScanResult": "Success",
+              "virusScanMessage": null,
+              "scannedAt": "2023-08-29T10:10:37.275Z",
+              "hashes": {
+                "AutoV1": "A14809BE",
+                "AutoV2": "59C2AB8025",
+                "SHA256": "59C2AB8025597187DA276381F85D4231DD6569407A98E620A502DD8EE418CBF3",
+                "CRC32": "4B8D5D01",
+                "BLAKE3": "34AA4F7AF5F44A1B8E3692EA09F42DB357AA51B7D5DF0E6F2CDE6451A257D805"
+              },
+              "downloadUrl": "https://civitai.com/api/download/models/150935",
+              "primary": true
+            }
+          ],
+          "images": "SAFE",
+          "downloadUrl": "https://civitai.com/api/download/models/150935"
+        }
+      ]
+    },
+    {
+      "id": 136814,
+      "name": "SCHOOL，学校模型ZSschoolV1.0",
+      "description": "<h1 id=\"heading-944\"><strong><span style=\"color:rgb(255, 255, 255)\">8K+高清建筑学校</span></strong></h1><p><strong><span style=\"color:rgb(255, 255, 255)\">简介：</span></strong><span style=\"color:rgb(255, 255, 255)\">这是一款专为绘制建筑外立面的LoRA模型，基于SDXL底模制作，其风格偏向效果图和写实，拥有非常真实光影，是一款非常精致的建筑模型。是建筑系列中的学校的外立面。推荐搭配模型sdXL_v1.0使用。</span></p><h2 id=\"heading-945\"><strong><span style=\"color:rgb(255, 255, 255)\">关于TAG:</span></strong></h2><p><span style=\"color:rgb(255, 255, 255)\">不太建议写非常复杂的词，可以多谢一些质量词，例如masterpiece,best quality等等，</span><strong><span style=\"color:rgb(255, 255, 255)\">不知道怎么写可以直接复制下面的提示词：</span></strong></p><p><span style=\"color:rgb(255, 255, 255)\">(masterpiece), best quality,8K,no humans, outdoors,xuexiao,school,building, scenery,blue sky, (stairs:0.7),grass, day,tree,window,</span></p><p><strong><span style=\"color:rgb(255, 77, 79)\">负面：“lowres, bad anatomy, text, error, extra digit, fewer digits,cropped, worst quality, low quality, normal quality, jpeg artifacts, signature,watermark, username, blurry”</span></strong></p><p><strong><span style=\"color:rgb(255, 255, 255)\">触发词：</span></strong><span style=\"color:rgb(255, 255, 255)\">xuexiao</span><strong><span style=\"color:rgb(255, 77, 79)\">(必写）</span></strong><span style=\"color:rgb(255, 255, 255)\">, school</span><strong><span style=\"color:rgb(225, 60, 57)\">（非必写）</span></strong></p><p><strong><span style=\"color:rgb(255, 255, 255)\">权重：</span></strong><span style=\"color:rgb(255, 255, 255)\">0.4-0.6</span><strong><span style=\"color:rgb(255, 77, 79)\">（推荐0.5，根据尺寸比例调整）</span></strong></p><h2 id=\"heading-946\"><strong><span style=\"color:rgb(255, 255, 255)\">关于参数设置:</span></strong></h2><p><strong><span>迭代步数：</span></strong><span>30-100</span><strong><span style=\"color:rgb(255, 77, 79)\">（过于低的步数可能会导致画面扭曲）</span></strong></p><p><strong><span>采样方法：</span></strong><span style=\"color:rgb(255, 255, 255)\">Euler a、DPM、SDE</span></p><p><strong><span style=\"color:rgb(255, 255, 255)\">放大算法：</span></strong><span style=\"color:rgb(255, 255, 255)\">4x-UltraSharp/R-ESRGAN 4X+</span></p><p><strong><span>放大倍数：</span></strong><span>1.5-2.0倍</span></p><p><strong><span>重绘幅度：</span></strong><span>0.1-0.3</span></p><p><strong><span style=\"color:rgb(255, 255, 255)\">推荐尺寸：</span></strong><span style=\"color:rgb(255, 255, 255)\">1536x1024、1024x1536，不同尺寸需采用不同的权重</span><strong><span style=\"color:rgb(255, 77, 79)\">（如果要开高分辨率修复的话，显卡至少24G以上）</span></strong></p><p><strong><span>CFG Scale：6.5-8.5</span><span style=\"color:rgb(255, 77, 79)\">（推荐使用默认的7即可）</span></strong></p><p><strong><span>如果高清修复要炸显存，建议通过后期处理放大，或者通过其他工具进行精修！</span></strong></p><h2 id=\"heading-947\"><strong><span style=\"color:rgb(255, 255, 255)\">商务合作：</span></strong></h2><p><span style=\"color:rgb(255, 255, 255)\">V：</span><span>ZS-Designer</span></p><p><span>QQ：1607798932</span></p><p><a target=\"_blank\" rel=\"ugc\" href=\"mailto:谷歌邮箱：zhangshuai990103@gmail.com\"><span>谷歌邮箱：zhangshuai990103@gmail.com</span></a></p><p><strong>有任务问题可以评论留言！</strong></p><p><strong><span style=\"color:rgb(225, 60, 57)\">请勿用于任何商业用途和其他非法用途，严格遵守法律法规</span></strong></p><h1 id=\"heading-948\"><br />8K+ HD Building <span style=\"color:rgb(255, 255, 255)\">School</span></h1><p><strong>Introduction:</strong> This is a LoRA model specially designed for drawing architectural facades. It is based on the SDXL base model and leans towards architectural renderings and realism. It features incredibly lifelike lighting and shadows, making it a very sophisticated architectural model. It represents the exterior facade of a <span style=\"color:rgb(255, 255, 255)\">school</span> in the architectural series. It is recommended to use in conjunction with the sdXL_v1.0 model.</p><h2 id=\"heading-949\">About TAG:</h2><p>It is not recommended to write very complex words, you can thank some quality words, such as masterpiece, best quality, etc., if you don't know how to write, you can directly copy the following prompt words:</p><p><span style=\"color:rgb(255, 255, 255)\">(masterpiece), best quality,8K,no humans, outdoors,xuexiao,school,building, scenery,blue sky, (stairs:0.7),grass, day,tree,window,</span></p><p><strong><span style=\"color:rgb(227, 50, 50)\">Negative: \"lowres, bad anatomy, text, error, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry\"</span></strong></p><p><strong><span style=\"color:rgb(255, 255, 255)\">Trigger Words: chanyeyuan </span><span style=\"color:rgb(232, 63, 63)\">(mandatory)</span><span style=\"color:rgb(255, 255, 255)\">, industrial park </span><span style=\"color:rgb(230, 78, 78)\">(optional)</span></strong></p><p><strong>Weight:</strong> 0.4-0.6<span style=\"color:rgb(230, 62, 62)\"> </span><strong><span style=\"color:rgb(230, 62, 62)\">(adjust based on the size ratio)</span></strong></p><h2 id=\"heading-950\">About Parameter Settings:</h2><p><strong>Number of Iterations:</strong> 30-100<span style=\"color:rgb(227, 50, 50)\"> </span><strong><span style=\"color:rgb(227, 50, 50)\">(too low iterations may cause distortion)</span></strong></p><p><strong>Sampling Methods:</strong> Euler a, DPM, SDE</p><p><strong>Upscale Algorithm: </strong>4x-UltraSharp/R-ESRGAN 4X+</p><p><strong>Upscale Factor:</strong> 1.5-2.0x</p><p><strong>Redraw Amplitude</strong>: 0.1-0.3</p><p><strong>Recommended Size:</strong> 1536x1024, 1024x1536. Different sizes require different weights<strong><span style=\"color:rgb(224, 58, 58)\"> (for high-resolution restoration, a graphics card with at least 24GB is recommended)</span></strong></p><p><strong>CFG Scale:</strong> 6.5-8.5 <strong><span style=\"color:rgb(230, 62, 62)\">(default of 7 is recommended)</span></strong></p><h3 id=\"heading-951\"><strong>If high-definition restoration consumes too much VRAM, it's advisable to perform upscaling through post-processing or use other tools for fine-tuning!</strong></h3><h2 id=\"heading-952\">Business Collaboration:</h2><p>Name: ZS-Designer</p><p>QQ: 1607798932</p><p>Google Email: <a target=\"_blank\" rel=\"ugc\" href=\"mailto:zhangshuai990103@gmail.com\"><strong><u>zhangshuai990103@gmail.com</u></strong></a></p><h3 id=\"heading-953\">For any task-related queries, feel free to comment!</h3><h3 id=\"heading-954\"><strong><span style=\"color:rgb(232, 58, 58)\">Please refrain from using this for any commercial purposes or other illegal activities, and strictly adhere to legal regulations.</span></strong></h3>",
+      "type": "LORA",
+      "poi": false,
+      "nsfw": false,
+      "allowNoCredit": true,
+      "allowCommercialUse": "Image",
+      "allowDerivatives": false,
+      "allowDifferentLicense": true,
+      "stats": {
+        "downloadCount": 144,
+        "favoriteCount": 29,
+        "commentCount": 0,
+        "ratingCount": 0,
+        "rating": 0
+      },
+      "creator": {
+        "username": "Johnny_AI",
+        "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/525f513e-0111-412a-a80d-a703723af8e2/width=96/Johnny_AI.jpeg"
+      },
+      "tags": [
+        "buildings",
+        "realistic",
+        "school",
+        "building",
+        "realist"
+      ],
+      "modelVersions": [
+        {
+          "id": 150941,
+          "modelId": 136814,
+          "name": "v1.0",
+          "createdAt": "2023-08-29T10:12:13.201Z",
+          "updatedAt": "2023-08-29T10:25:07.198Z",
+          "trainedWords": [
+            "xuexiao"
+          ],
+          "trainingStatus": null,
+          "trainingDetails": null,
+          "baseModel": "SDXL 1.0",
+          "baseModelType": null,
+          "earlyAccessTimeFrame": 0,
+          "description": "<p>V1.0</p>",
+          "vaeId": null,
+          "stats": {
+            "downloadCount": 145,
+            "ratingCount": 0,
+            "rating": 0
+          },
+          "files": [
+            {
+              "id": 112260,
+              "sizeKB": 445788.23828125,
+              "name": "ZSschoolV1.0-000041.safetensors",
+              "type": "Model",
+              "metadata": {
+                "fp": null,
+                "size": null,
+                "format": "SafeTensor"
+              },
+              "pickleScanResult": "Success",
+              "pickleScanMessage": "No Pickle imports",
+              "virusScanResult": "Success",
+              "virusScanMessage": null,
+              "scannedAt": "2023-08-29T10:21:05.109Z",
+              "hashes": {
+                "AutoV1": "A700D6E8",
+                "AutoV2": "DC3ED534EF",
+                "SHA256": "DC3ED534EFB51A8FFF450D1765B61CE0D4B6EF865ED5BA8CF7F1ED08CEE534F1",
+                "CRC32": "5EB7A9AA",
+                "BLAKE3": "02F24A887FA73B32C0699519C665E0605B91A5AE6ED61805B03D38D0DFBA44BB"
+              },
+              "downloadUrl": "https://civitai.com/api/download/models/150941",
+              "primary": true
+            }
+          ],
+          "images": "SAFE",
+          "downloadUrl": "https://civitai.com/api/download/models/150941"
+        }
+      ]
+    },
+    {
+      "id": 136815,
+      "name": "Garr (Breath of Fire)",
+      "description": "<p>Garr from breath of fire.</p><p>LoRA was trained by me, example images were generated by <a target=\"_blank\" rel=\"ugc\" href=\"https://twitter.com/DragonTes1\">@Dragontes</a></p><p>Should be ok with most furry models.</p><p>Could be unstable, This lora had not been tested a lot.</p><p></p>",
+      "type": "LORA",
+      "poi": false,
+      "nsfw": false,
+      "allowNoCredit": true,
+      "allowCommercialUse": "None",
+      "allowDerivatives": true,
+      "allowDifferentLicense": false,
+      "stats": {
+        "downloadCount": 177,
+        "favoriteCount": 50,
+        "commentCount": 0,
+        "ratingCount": 2,
+        "rating": 5
+      },
+      "creator": {
+        "username": "indigowing",
+        "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/da9a6b32-b697-4cef-afdd-b92a6aa30e00/width=96/indigowing.jpeg"
+      },
+      "tags": [
+        "character",
+        "furry",
+        "male",
+        "dragon",
+        "breath of fire"
+      ],
+      "modelVersions": [
+        {
+          "id": 150944,
+          "modelId": 136815,
+          "name": "v1.0",
+          "createdAt": "2023-08-29T10:13:37.001Z",
+          "updatedAt": "2023-08-29T10:17:59.542Z",
+          "trainedWords": [
+            "Garr"
+          ],
+          "trainingStatus": null,
+          "trainingDetails": null,
+          "baseModel": "SD 1.5",
+          "baseModelType": null,
+          "earlyAccessTimeFrame": 0,
+          "description": null,
+          "vaeId": null,
+          "stats": {
+            "downloadCount": 177,
+            "ratingCount": 2,
+            "rating": 5
+          },
+          "files": [
+            {
+              "id": 112258,
+              "sizeKB": 73846.462890625,
+              "name": "Garr_v1_10ep.safetensors",
+              "type": "Model",
+              "metadata": {
+                "fp": null,
+                "size": null,
+                "format": "SafeTensor"
+              },
+              "pickleScanResult": "Success",
+              "pickleScanMessage": "No Pickle imports",
+              "virusScanResult": "Success",
+              "virusScanMessage": null,
+              "scannedAt": "2023-08-29T10:15:58.242Z",
+              "hashes": {
+                "AutoV1": "056F725D",
+                "AutoV2": "FB4F7B281D",
+                "SHA256": "FB4F7B281DEFD5BF2727058817000A25CE5274BE62D3DAF1C7E74002F41E34BE",
+                "CRC32": "D64C6405",
+                "BLAKE3": "CC1842B62AE9A93C63A55843222FCF8CD4882272C68B86A3BB738CAFD357E9BA"
+              },
+              "downloadUrl": "https://civitai.com/api/download/models/150944",
+              "primary": true
+            }
+          ],
+          "images": "PARTIAL",
+          "downloadUrl": "https://civitai.com/api/download/models/150944"
+        }
+      ]
+    },
+    {
+      "id": 136817,
+      "name": "Aya Kawasaki BRA",
+      "description": "<p>Aya Kawasaki (川崎あや／かわさき あや) is a 32 year old gravure model and race queen from Kanagawa Prefecture.</p>",
+      "type": "LORA",
+      "poi": true,
+      "nsfw": false,
+      "allowNoCredit": true,
+      "allowCommercialUse": "None",
+      "allowDerivatives": true,
+      "allowDifferentLicense": false,
+      "stats": {
+        "downloadCount": 168,
+        "favoriteCount": 13,
+        "commentCount": 0,
+        "ratingCount": 0,
+        "rating": 0
+      },
+      "creator": {
+        "username": "nukerofface",
+        "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/5c3554ad-4fcd-4dec-bbd6-22455777549c/width=96/nukerofface.jpeg"
+      },
+      "tags": [
+        "gravure",
+        "celebrity",
+        "japanese",
+        "lora"
+      ],
+      "modelVersions": [
+        {
+          "id": 150939,
+          "modelId": 136817,
+          "name": "v1.0",
+          "createdAt": "2023-08-29T10:11:23.200Z",
+          "updatedAt": "2023-08-29T10:13:17.389Z",
+          "trainedWords": [
+            "Aya Kawasaki"
+          ],
+          "trainingStatus": null,
+          "trainingDetails": null,
+          "baseModel": "SD 1.5",
+          "baseModelType": null,
+          "earlyAccessTimeFrame": 0,
+          "description": null,
+          "vaeId": null,
+          "stats": {
+            "downloadCount": 168,
+            "ratingCount": 0,
+            "rating": 0
+          },
+          "files": [
+            {
+              "id": 112254,
+              "sizeKB": 230514.25,
+              "name": "Aya_Kawasaki_BRA.safetensors",
+              "type": "Model",
+              "metadata": {
+                "fp": null,
+                "size": null,
+                "format": "SafeTensor"
+              },
+              "pickleScanResult": "Success",
+              "pickleScanMessage": "No Pickle imports",
+              "virusScanResult": "Success",
+              "virusScanMessage": null,
+              "scannedAt": "2023-08-29T10:15:59.453Z",
+              "hashes": {
+                "AutoV1": "530AF4B5",
+                "AutoV2": "ABD9D8CE5D",
+                "SHA256": "ABD9D8CE5DCA4D014F92702E0E28024CB03C180F77363415FF7F6180216F1190",
+                "CRC32": "87F2EB2C",
+                "BLAKE3": "558E26B15F4C3D93B1937273313298B89493B4C9A128B690B5F2E490600158CB"
+              },
+              "downloadUrl": "https://civitai.com/api/download/models/150939",
+              "primary": true
+            }
+          ],
+          "images": "SAFE",
+          "downloadUrl": "https://civitai.com/api/download/models/150939"
+        }
+      ]
+    },
+    {
+      "id": 136818,
+      "name": "Jessica Alba",
+      "description": "<p>Let me know what you think and any suggestions on who to see next.</p><p>‌</p><p>If you like my work and wanna show me <a target=\"_blank\" rel=\"ugc\" href=\"https://www.buymeacoffee.com/wtygfmfhfvb\">buy me a coffee</a>. All model requests there will be given top priority and output in the next couple days</p>",
+      "type": "TextualInversion",
+      "poi": true,
+      "nsfw": false,
+      "allowNoCredit": true,
+      "allowCommercialUse": "Sell",
+      "allowDerivatives": true,
+      "allowDifferentLicense": true,
+      "stats": {
+        "downloadCount": 406,
+        "favoriteCount": 46,
+        "commentCount": 0,
+        "ratingCount": 0,
+        "rating": 0
+      },
+      "creator": {
+        "username": "frankyfrank2k",
+        "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/afdca61d-84fa-4b81-b82f-f35329af0722/width=96/frankyfrank2k.jpeg"
+      },
+      "tags": [
+        "female",
+        "woman",
+        "actress",
+        "celeb",
+        "celebrity",
+        "famous"
+      ],
+      "modelVersions": [
+        {
+          "id": 150942,
+          "modelId": 136818,
+          "name": "v1.0",
+          "createdAt": "2023-08-29T10:12:26.933Z",
+          "updatedAt": "2023-08-29T10:14:23.357Z",
+          "trainedWords": [
+            "jessicaAlb1"
+          ],
+          "trainingStatus": null,
+          "trainingDetails": null,
+          "baseModel": "SD 1.5",
+          "baseModelType": null,
+          "earlyAccessTimeFrame": 0,
+          "description": null,
+          "vaeId": null,
+          "stats": {
+            "downloadCount": 406,
+            "ratingCount": 0,
+            "rating": 0
+          },
+          "files": [
+            {
+              "id": 112255,
+              "sizeKB": 30.9287109375,
+              "name": "jessicaAlb1.pt",
+              "type": "Model",
+              "metadata": {
+                "fp": null,
+                "size": null,
+                "format": "PickleTensor"
+              },
+              "pickleScanResult": "Success",
+              "pickleScanMessage": "No Pickle imports",
+              "virusScanResult": "Success",
+              "virusScanMessage": null,
+              "scannedAt": "2023-08-29T10:16:14.882Z",
+              "hashes": {
+                "AutoV2": "15535660D9",
+                "SHA256": "15535660D9B2BADB5F6683D814937567E2C7C5EE2179736E95DD0C2455B1D04C",
+                "CRC32": "C92A668F",
+                "BLAKE3": "A04C4100DF6E4AC04DE8B207DC84F6355EFD4B4D8972EF65FD766A6EA2E8846B"
+              },
+              "downloadUrl": "https://civitai.com/api/download/models/150942",
+              "primary": true
+            }
+          ],
+          "images": "PARTIAL",
+          "downloadUrl": "https://civitai.com/api/download/models/150942"
+        }
+      ]
+    },
+    {
+      "id": 136819,
+      "name": "SNSD Tiffany (티파니)",
+      "description": "<p><strong><span>Trigger: </span></strong><span>tiffanylorashy</span></p><p><strong><span>Best weight:</span></strong><span> 0.85 ~ 1</span></p><p><strong><span>Model:</span></strong><span> chilloutmix &amp; majicMIX</span></p><p><strong><span>Resolution:</span></strong><span> 512 x 768, 768 x 512, etc.</span></p><p><span>Using Hires/ADetailer is recommended for better result!</span></p><p><strong><span>((The V2 versions of any models will be exclusively accessible on my Ko-fi page))</span></strong><span><br />Consider donating for my work </span><a target=\"_blank\" rel=\"ugc\" href=\"https://ko-fi.com/supashy\"><span>here</span></a><span>!<br />Custom LoRa making service </span><a target=\"_blank\" rel=\"ugc\" href=\"https://ko-fi.com/supashy/commissions\"><span>here</span></a><span>!<br />Custom image generation service </span><a target=\"_blank\" rel=\"ugc\" href=\"https://ko-fi.com/supashy/commissions\"><span>here</span></a><span>!</span></p>",
+      "type": "LORA",
+      "poi": true,
+      "nsfw": false,
+      "allowNoCredit": true,
+      "allowCommercialUse": "RentCivit",
+      "allowDerivatives": false,
+      "allowDifferentLicense": true,
+      "stats": {
+        "downloadCount": 249,
+        "favoriteCount": 36,
+        "commentCount": 0,
+        "ratingCount": 1,
+        "rating": 5
+      },
+      "creator": {
+        "username": "supashy",
+        "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ac924ff5-5bba-4cf2-b8a6-2b8826541c9c/width=96/supashy.jpeg"
+      },
+      "tags": [
+        "kpop",
+        "woman",
+        "celebrity",
+        "kpop idol"
+      ],
+      "modelVersions": [
+        {
+          "id": 150945,
+          "modelId": 136819,
+          "name": "v1.0",
+          "createdAt": "2023-08-29T10:14:51.580Z",
+          "updatedAt": "2023-09-06T22:24:42.730Z",
+          "trainedWords": [
+            "tiffanylorashy"
+          ],
+          "trainingStatus": null,
+          "trainingDetails": null,
+          "baseModel": "SD 1.5",
+          "baseModelType": null,
+          "earlyAccessTimeFrame": 0,
+          "description": null,
+          "vaeId": null,
+          "stats": {
+            "downloadCount": 249,
+            "ratingCount": 1,
+            "rating": 5
+          },
+          "files": [
+            {
+              "id": 112259,
+              "sizeKB": 36983,
+              "name": "tiffanylorashy.safetensors",
+              "type": "Model",
+              "metadata": {
+                "fp": null,
+                "size": null,
+                "format": "SafeTensor"
+              },
+              "pickleScanResult": "Success",
+              "pickleScanMessage": "No Pickle imports",
+              "virusScanResult": "Success",
+              "virusScanMessage": null,
+              "scannedAt": "2023-08-29T10:20:54.878Z",
+              "hashes": {
+                "AutoV1": "F81351FE",
+                "AutoV2": "9D118E343B",
+                "SHA256": "9D118E343BBA9E87BAA481803B888769F71A587A7DE474860CC862FAFB0FC3D7",
+                "CRC32": "CCB671B6",
+                "BLAKE3": "E92B122B94827D78CD5C5D45DC7E96DAA0B1316F25EA8D96EF21E54E705EAC4C"
+              },
+              "downloadUrl": "https://civitai.com/api/download/models/150945",
+              "primary": true
+            }
+          ],
+          "images": "SAFE",
+          "downloadUrl": "https://civitai.com/api/download/models/150945"
+        }
+      ]
+    },
+    {
+      "id": 136820,
+      "name": "Britney Spears",
+      "description": "<p>Let me know what you think and any suggestions on who to see next.</p><p>‌</p><p>If you like my work and wanna show me <a target=\"_blank\" rel=\"ugc\" href=\"https://www.buymeacoffee.com/wtygfmfhfvb\">buy me a coffee</a>. All model requests there will be given top priority and output in the next couple days</p>",
+      "type": "TextualInversion",
+      "poi": true,
+      "nsfw": false,
+      "allowNoCredit": true,
+      "allowCommercialUse": "Sell",
+      "allowDerivatives": true,
+      "allowDifferentLicense": true,
+      "stats": {
+        "downloadCount": 242,
+        "favoriteCount": 26,
+        "commentCount": 0,
+        "ratingCount": 0,
+        "rating": 0
+      },
+      "creator": {
+        "username": "frankyfrank2k",
+        "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/afdca61d-84fa-4b81-b82f-f35329af0722/width=96/frankyfrank2k.jpeg"
+      },
+      "tags": [
+        "singer",
+        "female",
+        "woman",
+        "actress",
+        "celeb",
+        "celebrity",
+        "famous"
+      ],
+      "modelVersions": [
+        {
+          "id": 150947,
+          "modelId": 136820,
+          "name": "v1.0",
+          "createdAt": "2023-08-29T10:16:58.458Z",
+          "updatedAt": "2023-08-29T10:17:59.870Z",
+          "trainedWords": [
+            "britneySpe1"
+          ],
+          "trainingStatus": null,
+          "trainingDetails": null,
+          "baseModel": "SD 1.5",
+          "baseModelType": null,
+          "earlyAccessTimeFrame": 0,
+          "description": null,
+          "vaeId": null,
+          "stats": {
+            "downloadCount": 242,
+            "ratingCount": 0,
+            "rating": 0
+          },
+          "files": [
+            {
+              "id": 112261,
+              "sizeKB": 30.9287109375,
+              "name": "britneySpe1.pt",
+              "type": "Model",
+              "metadata": {
+                "fp": null,
+                "size": null,
+                "format": "PickleTensor"
+              },
+              "pickleScanResult": "Success",
+              "pickleScanMessage": "No Pickle imports",
+              "virusScanResult": "Success",
+              "virusScanMessage": null,
+              "scannedAt": "2023-08-29T10:20:58.163Z",
+              "hashes": {
+                "AutoV2": "C39A45D7AE",
+                "SHA256": "C39A45D7AE0540624E8B8DCED81C91DED2161672665780FC8B0E54F30F5FB0F3",
+                "CRC32": "E939725C",
+                "BLAKE3": "834E48B95875797B26DAC75FEE5A59CE168B3B3749A90333CA90446147149E2D"
+              },
+              "downloadUrl": "https://civitai.com/api/download/models/150947",
+              "primary": true
+            }
+          ],
+          "images": "PARTIAL",
+          "downloadUrl": "https://civitai.com/api/download/models/150947"
+        }
+      ]
+    },
+    {
+      "id": 136821,
+      "name": "Lala Satalin Deviluke -《To LOVE RU》/《To LOVEる -とらぶる-》",
+      "description": "<p><span style=\"color:rgb(193, 194, 197)\">The model used 15 pictures for training.</span></p><p><span style=\"color:rgb(193, 194, 197)\">The training pictures are all from the original painting collection of the artist.</span></p><p></p><p><span style=\"color:rgb(193, 194, 197)\">Recommendation Weight：0.6~0.8</span></p>",
+      "type": "LORA",
+      "poi": false,
+      "nsfw": false,
+      "allowNoCredit": true,
+      "allowCommercialUse": "None",
+      "allowDerivatives": true,
+      "allowDifferentLicense": true,
+      "stats": {
+        "downloadCount": 311,
+        "favoriteCount": 69,
+        "commentCount": 0,
+        "ratingCount": 0,
+        "rating": 0
+      },
+      "creator": {
+        "username": "zexro",
+        "image": "https://lh3.googleusercontent.com/a/AEdFTp5o-NXKHdtWNEDv56uIG8I92zCbO0tUJTD7N8FY=s96-c"
+      },
+      "tags": [
+        "anime",
+        "character",
+        "girls"
+      ],
+      "modelVersions": [
+        {
+          "id": 150949,
+          "modelId": 136821,
+          "name": "v1.0",
+          "createdAt": "2023-08-29T10:20:51.597Z",
+          "updatedAt": "2023-08-29T10:26:00.867Z",
+          "trainedWords": [
+            "sainan_high_school_uniform, 1girl, solo, plaid, plaid_skirt, pink_hair, demon_tail, skirt, tail, school_uniform, bow, green_skirt, "
+          ],
+          "trainingStatus": null,
+          "trainingDetails": null,
+          "baseModel": "SD 1.5",
+          "baseModelType": null,
+          "earlyAccessTimeFrame": 0,
+          "description": null,
+          "vaeId": null,
+          "stats": {
+            "downloadCount": 311,
+            "ratingCount": 0,
+            "rating": 0
+          },
+          "files": [
+            {
+              "id": 112264,
+              "sizeKB": 73841.6328125,
+              "name": "lala.safetensors",
+              "type": "Model",
+              "metadata": {
+                "fp": null,
+                "size": null,
+                "format": "SafeTensor"
+              },
+              "pickleScanResult": "Success",
+              "pickleScanMessage": "No Pickle imports",
+              "virusScanResult": "Success",
+              "virusScanMessage": null,
+              "scannedAt": "2023-08-29T10:25:40.489Z",
+              "hashes": {
+                "AutoV1": "BEFF0B67",
+                "AutoV2": "D0EA6C8C69",
+                "SHA256": "D0EA6C8C69F41C1DED5C8719D9F19DD61346A49CE26A29487725C440EAF333A6",
+                "CRC32": "55136D21",
+                "BLAKE3": "FA865A7EC77662109D9C5D912E1FB7AA6CD329C3BD6F41CBD0976267DC1DBFE5"
+              },
+              "downloadUrl": "https://civitai.com/api/download/models/150949",
+              "primary": true
+            }
+          ],
+          "images": "PARTIAL",
+          "downloadUrl": "https://civitai.com/api/download/models/150949"
+        }
+      ]
+    },
+    {
+      "id": 136822,
+      "name": "YumYumFusion_XL_BETA",
+      "description": "<h2 id=\"heading-55\"><span style=\"color:rgb(250, 82, 82)\">Model SDXL low Vram , low resolution</span></h2><h3 id=\"heading-56\"><br /><em><span style=\"color:rgb(250, 82, 82)\">This model uses a maximum size of 768 px for first impressions.</span></em></h3><h3 id=\"heading-57\"><em><span style=\"color:rgb(250, 82, 82)\">but still able to use all SDXL's capabilities</span></em></h3><p></p><hr /><h2 id=\"heading-91\"><em><span style=\"color:#ffffff\">โมเดลนี้ใช้ขนาดภาพในการเจนครั้งแรกไม่เกิน 768px แต่ยังคงสามารถ ใช้ฟังชั้น SDXL ได้ครบถ้วน</span></em><br /><br /><em><span style=\"color:#ffffff\">ห้ามเจนภาพเกินขนาด 768px</span></em></h2><p></p><h3 id=\"heading-11\"><strong>Sampling steps 40+<br />DPM++ 2M SDE Karras</strong></h3>",
+      "type": "Checkpoint",
+      "poi": false,
+      "nsfw": false,
+      "allowNoCredit": true,
+      "allowCommercialUse": "Sell",
+      "allowDerivatives": true,
+      "allowDifferentLicense": true,
+      "stats": {
+        "downloadCount": 268,
+        "favoriteCount": 31,
+        "commentCount": 1,
+        "ratingCount": 0,
+        "rating": 0
+      },
+      "creator": {
+        "username": "AIJPG",
+        "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/20147aba-d01c-44b2-b8e0-c2040e46d436/width=96/AIJPG.jpeg"
+      },
+      "tags": [
+        "character"
+      ],
+      "modelVersions": [
+        {
+          "id": 150948,
+          "modelId": 136822,
+          "name": "v0.1 beta",
+          "createdAt": "2023-08-29T10:20:20.836Z",
+          "updatedAt": "2023-08-29T10:35:02.873Z",
+          "trainedWords": [],
+          "trainingStatus": null,
+          "trainingDetails": null,
+          "baseModel": "SDXL 1.0",
+          "baseModelType": "Standard",
+          "earlyAccessTimeFrame": 0,
+          "description": null,
+          "vaeId": null,
+          "stats": {
+            "downloadCount": 268,
+            "ratingCount": 0,
+            "rating": 0
+          },
+          "files": [
+            {
+              "id": 112269,
+              "sizeKB": 7227120.478515625,
+              "name": "yumyumfusionXLBETA_v01Beta.safetensors",
+              "type": "Model",
+              "metadata": {
+                "fp": "fp16",
+                "size": "full",
+                "format": "SafeTensor"
+              },
+              "pickleScanResult": "Success",
+              "pickleScanMessage": "No Pickle imports",
+              "virusScanResult": "Success",
+              "virusScanMessage": null,
+              "scannedAt": "2023-08-29T10:38:25.117Z",
+              "hashes": {
+                "AutoV1": "F102EE6B",
+                "AutoV2": "D4A836C29E",
+                "SHA256": "D4A836C29E19F9AA2C3002B2D6FFF93CF54A60FB547CF2EDF2BDAB09F1502F9D",
+                "CRC32": "280C1EAE",
+                "BLAKE3": "A1B4206065DE30661906335F581BACA053723CEAE1A82241845C37EE072DAC13"
+              },
+              "downloadUrl": "https://civitai.com/api/download/models/150948",
+              "primary": true
+            }
+          ],
+          "images": "PARTIAL",
+          "downloadUrl": "https://civitai.com/api/download/models/150948"
+        }
+      ]
+    },
+    {
+      "id": 136823,
+      "name": "Evina Mix",
+      "description": "<p>So I wanted to do something different and take all these different images I’ve collected in different trainings and create something. This became the Mix person series.</p><p>I will be taking a sampling from multiple people and create a new character from that.</p><p>If you like this and want to help support me why not <a target=\"_blank\" rel=\"ugc\" href=\"https://www.buymeacoffee.com/wtygfmfhfvb\">buy me a coffee</a>. All model requests there will be given top priority and output in the next couple days</p><p>Below is a mix of the people this character contains:</p><ul><li><p><a rel=\"ugc\" href=\"https://civitai.com/models/88813?modelVersionId=94494\"><strong>Marina Diamandis</strong></a></p></li><li><p><a rel=\"ugc\" href=\"https://civitai.com/models/91311?modelVersionId=97309\"><strong>Eva Green</strong></a></p></li><li><p><a rel=\"ugc\" href=\"https://civitai.com/models/96289?modelVersionId=102853\"><strong>Antje Traue</strong></a></p></li><li><p><a rel=\"ugc\" href=\"https://civitai.com/models/98924?modelVersionId=105818\"><strong>Eliza Dushku</strong></a></p></li></ul>",
+      "type": "TextualInversion",
+      "poi": false,
+      "nsfw": false,
+      "allowNoCredit": true,
+      "allowCommercialUse": "Sell",
+      "allowDerivatives": true,
+      "allowDifferentLicense": true,
+      "stats": {
+        "downloadCount": 111,
+        "favoriteCount": 11,
+        "commentCount": 1,
+        "ratingCount": 0,
+        "rating": 0
+      },
+      "creator": {
+        "username": "frankyfrank2k",
+        "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/afdca61d-84fa-4b81-b82f-f35329af0722/width=96/frankyfrank2k.jpeg"
+      },
+      "tags": [
+        "character",
+        "female",
+        "mix",
+        "woman",
+        "mix series"
+      ],
+      "modelVersions": [
+        {
+          "id": 150950,
+          "modelId": 136823,
+          "name": "v1.0",
+          "createdAt": "2023-08-29T10:22:48.245Z",
+          "updatedAt": "2023-08-29T10:23:44.650Z",
+          "trainedWords": [
+            "evina1"
+          ],
+          "trainingStatus": null,
+          "trainingDetails": null,
+          "baseModel": "SD 1.5",
+          "baseModelType": null,
+          "earlyAccessTimeFrame": 0,
+          "description": null,
+          "vaeId": null,
+          "stats": {
+            "downloadCount": 111,
+            "ratingCount": 0,
+            "rating": 0
+          },
+          "files": [
+            {
+              "id": 112263,
+              "sizeKB": 30.8515625,
+              "name": "evina1.pt",
+              "type": "Model",
+              "metadata": {
+                "fp": null,
+                "size": null,
+                "format": "PickleTensor"
+              },
+              "pickleScanResult": "Success",
+              "pickleScanMessage": "No Pickle imports",
+              "virusScanResult": "Success",
+              "virusScanMessage": null,
+              "scannedAt": "2023-08-29T10:25:43.336Z",
+              "hashes": {
+                "AutoV2": "3AF256DE72",
+                "SHA256": "3AF256DE722678C8DF9907BFF15017098B3AFF1BF60FCAD3BABB93C641479DBE",
+                "CRC32": "0D4C2134",
+                "BLAKE3": "6E0A80807EA570A3A792D25D6CAE0EF8675863B8FE934BEFF7EED393CB96F777"
+              },
+              "downloadUrl": "https://civitai.com/api/download/models/150950",
+              "primary": true
+            }
+          ],
+          "images": "PARTIAL",
+          "downloadUrl": "https://civitai.com/api/download/models/150950"
+        }
+      ]
+    },
+    {
+      "id": 136824,
+      "name": "tutu's HiSilk (8D black red edge stocking stockings)/图图的嗨丝（8D黑色红边长筒袜丝袜）",
+      "description": "<p><strong>交流Q群：882894837，欢迎来玩，互通有无。</strong></p><p></p><p>简介：</p><p>这是一个8D红边黑色长筒袜，可以改善图中丝袜的质感。</p><p>厚度：8D</p><p>颜色：black</p><p>类型：8D红边黑色过膝袜</p><p></p><p>本LORA的特点如下：</p><p>1、使用差异提取法精心制作，除了会对**的质感产生影响以外，对画面的其他内容影响较小。</p><p>2、全部采用真人照片高清相机拍摄制作，确保效果真实。</p><p></p><p>为什么已经有了这么多黑丝LORA，还要再做一个？因为我发现：</p><p>1、现有的LORA都会对画面产生一些污染。要不然是衣服，要不然是鞋，要不然是身材。可否做一个LORA，只会对黑丝的质感产生影响，而不会对其他画面内容产生影响？</p><p>2、现有的LORA都没有对**的厚度、样式等进行细分，整体是一个比较混乱的状态。</p><p>所以我制作了这个LORA，后期还会制作一系列不同的厚度、质感的LORA，均采用真实实拍素材，使用差异提取法进行制作，确保质量。</p><p></p><p>所以这有可能是你用过的最好的嗨丝LORA。</p><p></p><p>使用方法：</p><p>1、确保你正确的使用LORA.</p><p>2、CLIP 终止层数建议设置为2.</p><p>3、如果对其他服装以及环境没有任何描述，**的LORA可能会对环境有一些影响。但是如果加了描述词后，影响就会降低甚至没有影响。</p><p>4、触发词为：red thighhighs,tutuhb,起手可以设置为：</p><p>(red thighhighs),(tutuhb:1.5), &lt;lora:tutuhb_v6:0.7&gt;</p><p>5、负面不要加的太多，否则会对LORA的效果产生影响。</p><p>6、提示词引导系数 (CFG Scale)可以从7开始尝试。</p><p>7、LoRA Block Weight (LoRA 区块权重配置)我没有打开。也可以打开试试？我没试过。</p><p>8、目前尝试的大模型比较好的有，大颗寿司系列，墨幽系列，ghostshell系列，也就是2次元，2.5，真人都适用。对于不同的大模型，需要对参数进行调试。</p><p></p><p>如果您在使用中遇到问题，可以给我留言。</p><p>期待您的作品！</p><p>期待您的作品！</p><p>期待您的作品！</p><p></p><p>声明：</p><p>1、您应对使用此模型的任何创意作品承担全部责任。</p><p>2、您不能使用该模型故意制作或分享非法或有害的输出或内容，避免将此模型用于恶意、伤害、诽谤、诈骗或政治用途。</p><p>3、如果将本模型用于商业用途，请通知我，谢谢。</p><p></p><p>常见问题：</p><p>1、为什么我出不了和你一样的照片？</p><p>每个人的电脑配置以及操作环境都不一样，使用的LORA以及插件版本、插件配置等也会有所区别，所以请不要追求一模一样的照片，创作您自己的完美作品吧！</p><p>2、权重调高以后图片出现大面积马赛克怎么办？</p><p>尝试调低权重，或者降低其他LORA的权重，或者打开LoRA Block Weight插件。</p><p>3、如何取得联系？</p><p></p><p><strong>如果有定制LORA的需求，或者有其他合作意向，可以直接在这里留言，或者联系Q331506796（注明来意）</strong></p><p></p><p></p><p><strong>Introduction:</strong></p><p>This is a black stocking with 8D red edge, which can improve the texture of stockings in the picture.</p><p>Thickness: 8D</p><p>color: black</p><p></p><p>Type: 8D red edge black knee socks</p><p></p><p>The characteristics of this LORA are as follows:</p><p>1. Elaborately produced using the difference extraction method, except for the impact on the texture of the image, it has little impact on other content of the picture.</p><p>2. All photos are taken with real-life high-definition cameras to ensure real effects.</p><p></p><p>Why do you want to make another one after there are already so many black silk LORAs? because I found:</p><p>1. The existing LORA will cause some pollution to the picture. Either clothes, or shoes, or body. Is it possible to make a LORA, which will only affect the texture of the black silk, but not other screen content?</p><p>2. The existing LORA does not subdivide the thickness and style of the hair, and the overall situation is rather chaotic.</p><p></p><p>So I made this LORA, and later I will make a series of LORAs with different thicknesses and textures, all of which are made of real-life materials and made using the difference extraction method to ensure the quality.</p><p>So this might be the best HISI LORA you've ever used.</p><p></p><p>Instructions:</p><p>1. Make sure you use LORA correctly.</p><p>2. It is recommended to set the number of CLIP termination layers to 2.</p><p>3. If there is no description of other clothing and the environment, **LORA may have some impact on the environment. But if descriptors are added, the impact will be reduced or even have no impact.</p><p>4. The trigger word is: red thighhighs, tutuhb, the starting hand can be set as:</p><p>(red thighhighs),(tutuhb:1.5), &lt;lora:tutuhb_v6:0.7&gt;</p><p>5. Don't add too much negative, otherwise it will affect the effect of LORA.</p><p>6. You can start from 7 for the prompt word guide coefficient (CFG Scale).</p><p>7. LoRA Block Weight (LoRA block weight configuration) I have not opened. Can you also open it? I haven't tried it.</p><p>8. The large models currently tried are relatively good, such as the large sushi series, the Moyou series, and the ghostshell series, which are 2-dimensional, 2.5, and are suitable for real people. For different large models, parameters need to be adjusted.</p><p>If you encounter problems in use, you can leave me a message.</p><p>Looking forward to your work!</p><p>Looking forward to your work!</p><p>Looking forward to your work!</p><p></p><p>statement:</p><p>1. You are solely responsible for any creative work using this mockup.</p><p>2. You cannot use this model to intentionally produce or share illegal or harmful output or content, and avoid using this model for malicious, hurtful, defamatory, fraudulent or political purposes.</p><p>3. If you use this model for commercial purposes, please notify me, thank you.</p><p></p><p>common problem:</p><p>1. Why can't I post the same photos as you?</p><p>Everyone's computer configuration and operating environment are different, and the LORA used, plug-in version, plug-in configuration, etc. will also be different, so please don't pursue exactly the same photos, create your own perfect work!</p><p>2. What should I do if there is a large area of mosaic in the picture after the weight is increased?</p><p>Try to lower the weight, or lower the weight of other LORA, or turn on the LoRA Block Weight plugin.</p><p></p><p>3. How to get in touch?</p><p>If you have a need to customize LORA, or have other cooperation intentions, you can leave a message here directly, or contact Q331506796 (indicate your intention)</p>",
+      "type": "LORA",
+      "poi": false,
+      "nsfw": false,
+      "allowNoCredit": true,
+      "allowCommercialUse": "None",
+      "allowDerivatives": true,
+      "allowDifferentLicense": true,
+      "stats": {
+        "downloadCount": 633,
+        "favoriteCount": 140,
+        "commentCount": 2,
+        "ratingCount": 2,
+        "rating": 5
+      },
+      "creator": {
+        "username": "tututututuz",
+        "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/de75af31-cfbe-4aee-ab11-6e61b4b759bc/width=96/tututututuz.jpeg"
+      },
+      "tags": [
+        "sexy",
+        "female",
+        "clothes",
+        "clothing",
+        "girls",
+        "realistic"
+      ],
+      "modelVersions": [
+        {
+          "id": 150952,
+          "modelId": 136824,
+          "name": "v1.0",
+          "createdAt": "2023-08-29T10:25:53.165Z",
+          "updatedAt": "2023-08-29T10:31:31.414Z",
+          "trainedWords": [
+            "red thighhighs",
+            "tutuhb"
+          ],
+          "trainingStatus": null,
+          "trainingDetails": null,
+          "baseModel": "SD 1.5",
+          "baseModelType": null,
+          "earlyAccessTimeFrame": 0,
+          "description": null,
+          "vaeId": null,
+          "stats": {
+            "downloadCount": 633,
+            "ratingCount": 2,
+            "rating": 5
+          },
+          "files": [
+            {
+              "id": 112266,
+              "sizeKB": 147567.9921875,
+              "name": "tutuhb.safetensors",
+              "type": "Model",
+              "metadata": {
+                "fp": null,
+                "size": null,
+                "format": "SafeTensor"
+              },
+              "pickleScanResult": "Success",
+              "pickleScanMessage": "No Pickle imports",
+              "virusScanResult": "Success",
+              "virusScanMessage": null,
+              "scannedAt": "2023-08-29T10:31:14.943Z",
+              "hashes": {
+                "AutoV1": "DC70B8F8",
+                "AutoV2": "8F932E5B48",
+                "SHA256": "8F932E5B48BA92D3940B23EAB82F9E537515887E7F6E118516A8C2BA7913A106",
+                "CRC32": "C00B2A89",
+                "BLAKE3": "F56E168BBCEE25D7F883B411105601B9FB162F7B726514D374A62D8440E053BA"
+              },
+              "downloadUrl": "https://civitai.com/api/download/models/150952",
+              "primary": true
+            }
+          ],
+          "images": "PARTIAL",
+          "downloadUrl": "https://civitai.com/api/download/models/150952"
+        }
+      ]
+    },
+    {
+      "id": 136825,
+      "name": "Carmelie Mix",
+      "description": "<p>So I wanted to do something different and take all these different images I’ve collected in different trainings and create something. This became the Mix person series.</p><p>I will be taking a sampling from multiple people and create a new character from that.</p><p>If you like this and want to help support me why not <a target=\"_blank\" rel=\"ugc\" href=\"https://www.buymeacoffee.com/wtygfmfhfvb\">buy me a coffee</a>. All model requests there will be given top priority and output in the next couple days</p><p>Below is a mix of the people this character contains:</p><p></p><ul><li><p><a rel=\"ugc\" href=\"https://civitai.com/models/90142?modelVersionId=95991\"><strong>Natalie Dormer</strong></a></p></li><li><p><a rel=\"ugc\" href=\"https://civitai.com/models/74111/hayden-panettiere\"><strong>Hayden Panettiere</strong></a></p></li><li><p><a rel=\"ugc\" href=\"https://civitai.com/models/84377/emmanuelle-chriqui\"><strong>Emmanuelle Chriqui</strong></a></p></li><li><p><a rel=\"ugc\" href=\"https://civitai.com/models/86229?modelVersionId=91670\"><strong>Carmen Electra</strong></a></p><p></p></li></ul>",
+      "type": "TextualInversion",
+      "poi": false,
+      "nsfw": false,
+      "allowNoCredit": true,
+      "allowCommercialUse": "Sell",
+      "allowDerivatives": true,
+      "allowDifferentLicense": true,
+      "stats": {
+        "downloadCount": 190,
+        "favoriteCount": 25,
+        "commentCount": 3,
+        "ratingCount": 0,
+        "rating": 0
+      },
+      "creator": {
+        "username": "frankyfrank2k",
+        "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/afdca61d-84fa-4b81-b82f-f35329af0722/width=96/frankyfrank2k.jpeg"
+      },
+      "tags": [
+        "character",
+        "female",
+        "mix",
+        "woman",
+        "mix series"
+      ],
+      "modelVersions": [
+        {
+          "id": 150953,
+          "modelId": 136825,
+          "name": "v1.0",
+          "createdAt": "2023-08-29T10:27:26.013Z",
+          "updatedAt": "2023-08-29T10:29:28.087Z",
+          "trainedWords": [
+            "carmelie1"
+          ],
+          "trainingStatus": null,
+          "trainingDetails": null,
+          "baseModel": "SD 1.5",
+          "baseModelType": null,
+          "earlyAccessTimeFrame": 0,
+          "description": null,
+          "vaeId": null,
+          "stats": {
+            "downloadCount": 190,
+            "ratingCount": 0,
+            "rating": 0
+          },
+          "files": [
+            {
+              "id": 112265,
+              "sizeKB": 30.9228515625,
+              "name": "carmelie1.pt",
+              "type": "Model",
+              "metadata": {
+                "fp": null,
+                "size": null,
+                "format": "PickleTensor"
+              },
+              "pickleScanResult": "Success",
+              "pickleScanMessage": "No Pickle imports",
+              "virusScanResult": "Success",
+              "virusScanMessage": null,
+              "scannedAt": "2023-08-29T10:30:50.787Z",
+              "hashes": {
+                "AutoV2": "D1EE3DFA65",
+                "SHA256": "D1EE3DFA65D6C75DD1D14BD98666B709A55D62E583C5D0443A3A5CE7A6F4B13D",
+                "CRC32": "C748A201",
+                "BLAKE3": "2D4395F4FA34AE7B1B60F95318FD87929E68E907D11F89DF04CD38D7917C985A"
+              },
+              "downloadUrl": "https://civitai.com/api/download/models/150953",
+              "primary": true
+            }
+          ],
+          "images": "PARTIAL",
+          "downloadUrl": "https://civitai.com/api/download/models/150953"
+        }
+      ]
+    },
+    {
+      "id": 136827,
+      "name": "tutu's HiSilk (30D black mesh pantyhose stockings)/图图的嗨丝（30D黑色网格纹连裤袜丝袜）",
+      "description": "<h3 id=\"heading-4\"><strong><span style=\"color:#4c6ef5\">交流Q群：882894837，欢迎来玩，互通有无。</span></strong></h3><p></p><p>简介：</p><p>这是一个黑色连裤袜LORA，可以改善图中丝袜的质感。</p><p>厚度：30D</p><p>颜色：black</p><p>类型：30D黑色网格纹连裤袜丝袜</p><p>本LORA的特点如下：</p><p>1、使用差异提取法精心制作，除了会对丝袜的质感产生影响以外，对画面的其他内容影响较小。</p><p>2、全部采用真人照片高清相机拍摄制作，确保效果真实。</p><p>为什么已经有了这么多黑丝LORA，还要再做一个？因为我发现：</p><p>1、现有的LORA都会对画面产生一些污染。要不然是衣服，要不然是鞋，要不然是身材。可否做一个LORA，只会对黑丝的质感产生影响，而不会对其他画面内容产生影响？</p><p>2、现有的LORA都没有对丝袜的厚度、样式等进行细分，整体是一个比较混乱的状态。</p><p>所以我制作了这个LORA，后期还会制作一系列不同的厚度、质感的LORA，均采用真实实拍素材，使用差异提取法进行制作，确保质量。</p><p>所以这有可能是你用过的最好的嗨丝LORA。</p><p>使用方法：</p><p>1、确保你正确的使用LORA.</p><p>2、CLIP 终止层数建议设置为2.</p><p>3、如果对其他服装以及环境没有任何描述，LORA可能会对环境有一些影响。但是如果加了描述词后，影响就会降低甚至没有影响。</p><p>4、触发词为：black pantyhose,tutuls,起手可以设置为：</p><p>(black pantyhose),(tutuls:1.5),&lt;lora:tutuls:0.85&gt;</p><p>注意，由于分辨率原因，当你把分辨率调的比较高，镜头拉近，是纹路和花纹都有的，但是如果镜头拉远就看不清了，这个需要反复调试一下。</p><p>5、负面不要加的太多，否则会对LORA的效果产生影响。</p><p>6、提示词引导系数 (CFG Scale)可以从7开始尝试。</p><p>7、LoRA Block Weight (LoRA 区块权重配置)我没有打开。也可以打开试试？我没试过。</p><p>8、目前尝试的大模型比较好的有，墨幽系列，麦橘系列，似乎对真人模型更加友好。对于不同的大模型，需要对参数进行调试。</p><p>如果您在使用中遇到问题，可以给我留言。</p><p>期待您的作品！</p><p>期待您的作品！</p><p>期待您的作品！</p><p>声明：</p><p>1、您应对使用此模型的任何创意作品承担全部责任。</p><p>2、您不能使用该模型故意制作或分享非法或有害的输出或内容，避免将此模型用于恶意、伤害、诽谤、诈骗或政治用途。</p><p>3、如果将本模型用于商业用途，请通知我，谢谢。</p><p>常见问题：</p><p>1、为什么我出不了和你一样的照片？</p><p>每个人的电脑配置以及操作环境都不一样，使用的LORA以及插件版本、插件配置等也会有所区别，所以请不要追求一模一样的照片，创作您自己的完美作品吧！</p><p>2、权重调高以后图片出现大面积马赛克怎么办？</p><p>尝试调低权重，或者降低其他LORA的权重，或者打开LoRA Block Weight插件。</p><p>3、如何取得联系？</p><p>如果有定制LORA的需求，或者有其他合作意向，可以直接在这里留言，或者联系Q331506796（注明来意）</p><p></p><p>Introduction:</p><p>This is a black pantyhose LORA, which can improve the texture of the stockings in the picture.</p><p>Thickness: 30D</p><p>color: black</p><p>Type: 30D Black Mesh Pantyhose Stockings</p><p>The characteristics of this LORA are as follows:</p><p>1. Elaborately produced using the difference extraction method, except for the impact on the texture of the stockings, it has little impact on other content of the picture.</p><p>2. All photos are taken with real-life high-definition cameras to ensure real effects.</p><p>Why do you want to make another one after there are already so many black silk LORAs? because I found:</p><p>1. The existing LORA will cause some pollution to the picture. Either clothes, or shoes, or body. Is it possible to make a LORA, which will only affect the texture of the black silk, but not other screen content?</p><p>2. The existing LORA does not subdivide the thickness and style of stockings, and the overall situation is rather chaotic.</p><p>So I made this LORA, and later I will make a series of LORAs with different thicknesses and textures, all of which are made of real-life materials and made using the difference extraction method to ensure the quality.</p><p>So this might be the best HISI LORA you've ever used.</p><p>Instructions:</p><p>1. Make sure you use LORA correctly.</p><p>2. It is recommended to set the number of CLIP termination layers to 2.</p><p>3. If there is no description of other clothing and the environment, LORA may have some impact on the environment. But if descriptors are added, the impact will be reduced or even have no impact.</p><p>4. The trigger word is: black pantyhose, tutuls, the starting hand can be set as:</p><p>(black pantyhose),(tutuls:1.5),&lt;lora:tutuls:0.85&gt;</p><p>Note that due to the resolution, when you adjust the resolution to a higher level and the lens is zoomed in, there will be textures and patterns, but if the lens is zoomed out, you will not be able to see clearly. This needs to be adjusted repeatedly.</p><p>5. Don't add too much negative, otherwise it will affect the effect of LORA.</p><p>6. You can start from 7 for the prompt word guide coefficient (CFG Scale).</p><p>7. LoRA Block Weight (LoRA block weight configuration) I have not opened. Can you also open it? I haven't tried it.</p><p>8. The large models currently tried are relatively good, such as the Moyou series and the Maiju series, which seem to be more friendly to real-life models. For different large models, parameters need to be adjusted.</p><p>If you encounter problems in use, you can leave me a message.</p><p>Looking forward to your work!</p><p>Looking forward to your work!</p><p>Looking forward to your work!</p><p>statement:</p><p>1. You are solely responsible for any creative work using this mockup.</p><p>2. You cannot use this model to intentionally produce or share illegal or harmful output or content, and avoid using this model for malicious, hurtful, defamatory, fraudulent or political purposes.</p><p>3. If you use this model for commercial purposes, please notify me, thank you.</p><p>common problem:</p><p>1. Why can't I post the same photos as you?</p><p>Everyone's computer configuration and operating environment are different, and the LORA used, plug-in version, plug-in configuration, etc. will also be different, so please don't pursue exactly the same photos, create your own perfect work!</p><p>2. What should I do if there is a large area of mosaic in the picture after the weight is increased?</p><p>Try to lower the weight, or lower the weight of other LORA, or turn on the LoRA Block Weight plugin.</p><p>3. How to get in touch?</p><p>If you have a need to customize LORA, or have other cooperation intentions, you can leave a message here directly, or contact Q331506796 (indicate your intention)</p>",
+      "type": "LORA",
+      "poi": false,
+      "nsfw": false,
+      "allowNoCredit": true,
+      "allowCommercialUse": "None",
+      "allowDerivatives": true,
+      "allowDifferentLicense": true,
+      "stats": {
+        "downloadCount": 561,
+        "favoriteCount": 139,
+        "commentCount": 0,
+        "ratingCount": 0,
+        "rating": 0
+      },
+      "creator": {
+        "username": "tututututuz",
+        "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/de75af31-cfbe-4aee-ab11-6e61b4b759bc/width=96/tututututuz.jpeg"
+      },
+      "tags": [
+        "sexy",
+        "female",
+        "clothes",
+        "pantyhose",
+        "clothing"
+      ],
+      "modelVersions": [
+        {
+          "id": 150956,
+          "modelId": 136827,
+          "name": "v1.0",
+          "createdAt": "2023-08-29T10:32:08.771Z",
+          "updatedAt": "2023-08-29T10:59:14.479Z",
+          "trainedWords": [
+            "black pantyhose",
+            "tutuls"
+          ],
+          "trainingStatus": null,
+          "trainingDetails": null,
+          "baseModel": "SD 1.5",
+          "baseModelType": null,
+          "earlyAccessTimeFrame": 0,
+          "description": null,
+          "vaeId": null,
+          "stats": {
+            "downloadCount": 561,
+            "ratingCount": 0,
+            "rating": 0
+          },
+          "files": [
+            {
+              "id": 112274,
+              "sizeKB": 147567.9921875,
+              "name": "tutuls.safetensors",
+              "type": "Model",
+              "metadata": {
+                "fp": null,
+                "size": null,
+                "format": "SafeTensor"
+              },
+              "pickleScanResult": "Success",
+              "pickleScanMessage": "No Pickle imports",
+              "virusScanResult": "Success",
+              "virusScanMessage": null,
+              "scannedAt": "2023-08-29T10:45:42.146Z",
+              "hashes": {
+                "AutoV1": "33A0F063",
+                "AutoV2": "D17EF6E964",
+                "SHA256": "D17EF6E964EA44DBD2AC2B1410A34FA8F37A5AC67A515EE9976B0AB6556644A1",
+                "CRC32": "ECD0C2D5",
+                "BLAKE3": "70CED2F38F3D761E9CFC4CCD916066A25E25CCD007D67CC4230701B7492985F5"
+              },
+              "downloadUrl": "https://civitai.com/api/download/models/150956",
+              "primary": true
+            }
+          ],
+          "images": "PARTIAL",
+          "downloadUrl": "https://civitai.com/api/download/models/150956"
+        }
+      ]
+    },
+    {
+      "id": 136828,
+      "name": "Indonesia Girl V4",
+      "description": null,
+      "type": "LORA",
+      "poi": false,
+      "nsfw": false,
+      "allowNoCredit": true,
+      "allowCommercialUse": "None",
+      "allowDerivatives": true,
+      "allowDifferentLicense": true,
+      "stats": {
+        "downloadCount": 135,
+        "favoriteCount": 4,
+        "commentCount": 1,
+        "ratingCount": 0,
+        "rating": 0
+      },
+      "creator": {
+        "username": "AI_Imaginarium9555",
+        "image": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "tags": [
+        "character"
+      ],
+      "modelVersions": [
+        {
+          "id": 157921,
+          "modelId": 136828,
+          "name": "v1.1",
+          "createdAt": "2023-09-08T22:55:24.897Z",
+          "updatedAt": "2023-09-08T22:58:18.196Z",
+          "trainedWords": [],
+          "trainingStatus": null,
+          "trainingDetails": null,
+          "baseModel": "SD 1.5",
+          "baseModelType": null,
+          "earlyAccessTimeFrame": 0,
+          "description": null,
+          "vaeId": null,
+          "stats": {
+            "downloadCount": 51,
+            "ratingCount": 0,
+            "rating": 0
+          },
+          "files": [
+            {
+              "id": 118557,
+              "sizeKB": 36976.6982421875,
+              "name": "Indonesia Girl V4.safetensors",
+              "type": "Model",
+              "metadata": {
+                "fp": null,
+                "size": null,
+                "format": "SafeTensor"
+              },
+              "pickleScanResult": "Success",
+              "pickleScanMessage": "No Pickle imports",
+              "virusScanResult": "Success",
+              "virusScanMessage": null,
+              "scannedAt": "2023-09-08T23:00:50.226Z",
+              "hashes": {
+                "AutoV1": "5D594C0A",
+                "AutoV2": "DD671CE6C9",
+                "SHA256": "DD671CE6C936D74049AFB69C8C27D7346D6201D685ACA5B1DDB05118CA6586F6",
+                "CRC32": "FBF6C077",
+                "BLAKE3": "40712C55C5CBA43CF9688AC191B1D36C48655F2F3A9B726910E92297F23402B6"
+              },
+              "downloadUrl": "https://civitai.com/api/download/models/157921",
+              "primary": true
+            }
+          ],
+          "images": "NSFW",
+          "downloadUrl": "https://civitai.com/api/download/models/157921"
+        },
+        {
+          "id": 150955,
+          "modelId": 136828,
+          "name": "v1.0",
+          "createdAt": "2023-08-29T10:32:03.845Z",
+          "updatedAt": "2023-09-08T22:55:24.897Z",
+          "trainedWords": [],
+          "trainingStatus": null,
+          "trainingDetails": null,
+          "baseModel": "SD 1.5",
+          "baseModelType": null,
+          "earlyAccessTimeFrame": 0,
+          "description": null,
+          "vaeId": null,
+          "stats": {
+            "downloadCount": 84,
+            "ratingCount": 0,
+            "rating": 0
+          },
+          "files": [
+            {
+              "id": 112267,
+              "sizeKB": 36979.3876953125,
+              "name": "IndonesiaGirlv4.safetensors",
+              "type": "Model",
+              "metadata": {
+                "fp": null,
+                "size": null,
+                "format": "SafeTensor"
+              },
+              "pickleScanResult": "Success",
+              "pickleScanMessage": "No Pickle imports",
+              "virusScanResult": "Success",
+              "virusScanMessage": null,
+              "scannedAt": "2023-08-29T10:35:44.313Z",
+              "hashes": {
+                "AutoV1": "8B3D1FE0",
+                "AutoV2": "9B2AFD1321",
+                "SHA256": "9B2AFD13215DB0D260DC3A4BC40853894DC9D4F4930103BCA9F0771AF426C6E5",
+                "CRC32": "E378272E",
+                "BLAKE3": "EB9CBFD6C06422247ADC277CF104A3940292A9BD83CA5B4220F9EC40426AC044"
+              },
+              "downloadUrl": "https://civitai.com/api/download/models/150955",
+              "primary": true
+            }
+          ],
+          "images": "SAFE",
+          "downloadUrl": "https://civitai.com/api/download/models/150955"
+        }
+      ]
+    },
+    {
+      "id": 136829,
+      "name": "Evelly Mix",
+      "description": "<p>So I wanted to do something different and take all these different images I’ve collected in different trainings and create something. This became the Mix person series.</p><p>I will be taking a sampling from multiple people and create a new character from that.</p><p>If you like this and want to help support me why not <a target=\"_blank\" rel=\"ugc\" href=\"https://www.buymeacoffee.com/wtygfmfhfvb\">buy me a coffee</a>. All model requests there will be given top priority and output in the next couple days</p><p>Below is a mix of the people this character contains:</p><ul><li><p><a rel=\"ugc\" href=\"https://civitai.com/models/90132/evan-rachel-wood\"><strong>Evan Rachel Wood</strong></a></p></li><li><p><a rel=\"ugc\" href=\"https://civitai.com/models/86233?modelVersionId=91675\"><strong>Kelly Carlson</strong></a></p></li><li><p><a rel=\"ugc\" href=\"https://civitai.com/models/74146?modelVersionId=78870\"><strong>Rachel McAdams</strong></a></p></li><li><p><a rel=\"ugc\" href=\"https://civitai.com/models/88112?modelVersionId=93772\"><strong>Leah Remini</strong></a></p></li></ul>",
+      "type": "TextualInversion",
+      "poi": false,
+      "nsfw": false,
+      "allowNoCredit": true,
+      "allowCommercialUse": "Sell",
+      "allowDerivatives": true,
+      "allowDifferentLicense": true,
+      "stats": {
+        "downloadCount": 164,
+        "favoriteCount": 14,
+        "commentCount": 1,
+        "ratingCount": 0,
+        "rating": 0
+      },
+      "creator": {
+        "username": "frankyfrank2k",
+        "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/afdca61d-84fa-4b81-b82f-f35329af0722/width=96/frankyfrank2k.jpeg"
+      },
+      "tags": [
+        "character",
+        "female",
+        "mix",
+        "woman",
+        "mix series"
+      ],
+      "modelVersions": [
+        {
+          "id": 150957,
+          "modelId": 136829,
+          "name": "v1.0",
+          "createdAt": "2023-08-29T10:33:06.804Z",
+          "updatedAt": "2023-08-29T10:33:58.451Z",
+          "trainedWords": [
+            "evelly1"
+          ],
+          "trainingStatus": null,
+          "trainingDetails": null,
+          "baseModel": "SD 1.5",
+          "baseModelType": null,
+          "earlyAccessTimeFrame": 0,
+          "description": null,
+          "vaeId": null,
+          "stats": {
+            "downloadCount": 164,
+            "ratingCount": 0,
+            "rating": 0
+          },
+          "files": [
+            {
+              "id": 112268,
+              "sizeKB": 30.9169921875,
+              "name": "evelly1.pt",
+              "type": "Model",
+              "metadata": {
+                "fp": null,
+                "size": null,
+                "format": "PickleTensor"
+              },
+              "pickleScanResult": "Success",
+              "pickleScanMessage": "No Pickle imports",
+              "virusScanResult": "Success",
+              "virusScanMessage": null,
+              "scannedAt": "2023-08-29T10:35:46.152Z",
+              "hashes": {
+                "AutoV2": "7853FA053A",
+                "SHA256": "7853FA053ABF07837E448DC3450B3B272C80156A5238C265C8404B63ECA93C91",
+                "CRC32": "4D699348",
+                "BLAKE3": "2381ECAC327C9F239F7D3DED56D52C9AD23D42D37196ED44E554F481CED0B912"
+              },
+              "downloadUrl": "https://civitai.com/api/download/models/150957",
+              "primary": true
+            }
+          ],
+          "images": "PARTIAL",
+          "downloadUrl": "https://civitai.com/api/download/models/150957"
+        }
+      ]
+    },
+    {
+      "id": 136830,
+      "name": "Mira Konohata / Asteroid in Love",
+      "description": "<p>This lora I tried to make the traits of the anime and this time is Mira Konohata from Asteroid in Love. The lora strength doesn't have to be too much. Just at 0.7, it will probably generate an accurate image of her.</p>",
+      "type": "LORA",
+      "poi": false,
+      "nsfw": false,
+      "allowNoCredit": true,
+      "allowCommercialUse": "Rent",
+      "allowDerivatives": true,
+      "allowDifferentLicense": true,
+      "stats": {
+        "downloadCount": 642,
+        "favoriteCount": 40,
+        "commentCount": 1,
+        "ratingCount": 1,
+        "rating": 5
+      },
+      "creator": {
+        "username": "camillie_inui_oyama",
+        "image": "https://lh3.googleusercontent.com/a/AAcHTteOG5BPyKxzcqvRTOcTEhif6zjoA9kwFUnMI5spdCUuDQ=s96-c"
+      },
+      "tags": [
+        "anime",
+        "character",
+        "mira konohata",
+        "asteroid in love"
+      ],
+      "modelVersions": [
+        {
+          "id": 150959,
+          "modelId": 136830,
+          "name": "Mira anime version v1.0",
+          "createdAt": "2023-08-29T10:35:29.849Z",
+          "updatedAt": "2023-08-31T17:50:52.105Z",
+          "trainedWords": [
+            "mira konohata (asteroid in love) medium hair, orange hair with yellow star on the left side, best quality, large masterpiece digital art, perfect anatomy, anime coloring"
+          ],
+          "trainingStatus": null,
+          "trainingDetails": null,
+          "baseModel": "SD 1.5",
+          "baseModelType": null,
+          "earlyAccessTimeFrame": 0,
+          "description": null,
+          "vaeId": null,
+          "stats": {
+            "downloadCount": 642,
+            "ratingCount": 1,
+            "rating": 5
+          },
+          "files": [
+            {
+              "id": 112272,
+              "sizeKB": 38163.0625,
+              "name": "1653200650063721682.safetensors",
+              "type": "Model",
+              "metadata": {
+                "fp": null,
+                "size": null,
+                "format": "SafeTensor"
+              },
+              "pickleScanResult": "Success",
+              "pickleScanMessage": "No Pickle imports",
+              "virusScanResult": "Success",
+              "virusScanMessage": null,
+              "scannedAt": "2023-08-29T10:40:40.473Z",
+              "hashes": {
+                "AutoV1": "C3D52F46",
+                "AutoV2": "0E8719D11E",
+                "SHA256": "0E8719D11E41CED20387BA2F322CA7796D83ED1CB8C62AD75A13257B9FD05218",
+                "CRC32": "3C48D98A",
+                "BLAKE3": "2CA5A7E6D96EDA250838D00369C533DCFFAF5E0A60989DF0960C777C70BCF985"
+              },
+              "downloadUrl": "https://civitai.com/api/download/models/150959",
+              "primary": true
+            }
+          ],
+          "images": "SAFE",
+          "downloadUrl": "https://civitai.com/api/download/models/150959"
+        }
+      ]
+    },
+    {
+      "id": 136831,
+      "name": "SNSD Sunny (써니)",
+      "description": "<p><strong><span>Trigger: </span></strong><span>sunnylorashy</span></p><p><strong><span>Best weight:</span></strong><span> 0.85 ~ 1</span></p><p><strong><span>Model:</span></strong><span> chilloutmix &amp; majicMIX</span></p><p><strong><span>Resolution:</span></strong><span> 512 x 768, 768 x 512, etc.</span></p><p><span>Using Hires/ADetailer is recommended for better result!</span></p><p><strong><span>((The V2 versions of any models will be exclusively accessible on my Ko-fi page))</span></strong><span><br />Consider donating for my work </span><a target=\"_blank\" rel=\"ugc\" href=\"https://ko-fi.com/supashy\"><span>here</span></a><span>!<br />Custom LoRa making service </span><a target=\"_blank\" rel=\"ugc\" href=\"https://ko-fi.com/supashy/commissions\"><span>here</span></a><span>!<br />Custom image generation service </span><a target=\"_blank\" rel=\"ugc\" href=\"https://ko-fi.com/supashy/commissions\"><span>here</span></a><span>!</span></p>",
+      "type": "LORA",
+      "poi": true,
+      "nsfw": false,
+      "allowNoCredit": true,
+      "allowCommercialUse": "RentCivit",
+      "allowDerivatives": false,
+      "allowDifferentLicense": true,
+      "stats": {
+        "downloadCount": 249,
+        "favoriteCount": 29,
+        "commentCount": 3,
+        "ratingCount": 0,
+        "rating": 0
+      },
+      "creator": {
+        "username": "supashy",
+        "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ac924ff5-5bba-4cf2-b8a6-2b8826541c9c/width=96/supashy.jpeg"
+      },
+      "tags": [
+        "kpop",
+        "woman",
+        "celebrity",
+        "kpop idol"
+      ],
+      "modelVersions": [
+        {
+          "id": 150958,
+          "modelId": 136831,
+          "name": "v1.0",
+          "createdAt": "2023-08-29T10:35:06.476Z",
+          "updatedAt": "2023-09-06T22:24:31.453Z",
+          "trainedWords": [
+            "sunnylorashy"
+          ],
+          "trainingStatus": null,
+          "trainingDetails": null,
+          "baseModel": "SD 1.5",
+          "baseModelType": null,
+          "earlyAccessTimeFrame": 0,
+          "description": null,
+          "vaeId": null,
+          "stats": {
+            "downloadCount": 249,
+            "ratingCount": 0,
+            "rating": 0
+          },
+          "files": [
+            {
+              "id": 112273,
+              "sizeKB": 36983.5625,
+              "name": "sunnylorashy.safetensors",
+              "type": "Model",
+              "metadata": {
+                "fp": null,
+                "size": null,
+                "format": "SafeTensor"
+              },
+              "pickleScanResult": "Success",
+              "pickleScanMessage": "No Pickle imports",
+              "virusScanResult": "Success",
+              "virusScanMessage": null,
+              "scannedAt": "2023-08-29T10:40:47.153Z",
+              "hashes": {
+                "AutoV1": "6871F97B",
+                "AutoV2": "DBC153D031",
+                "SHA256": "DBC153D0319BE4C68AC7CF328F99D7983CDEA140DFB0D31D2846B815BD1B61C8",
+                "CRC32": "EFDA4EAC",
+                "BLAKE3": "DDCD150ADD6B7D40AB8D98C052A0800BFD9E8AC9E0D1A40688F28BE1778DD42F"
+              },
+              "downloadUrl": "https://civitai.com/api/download/models/150958",
+              "primary": true
+            },
+            {
+              "id": 112270,
+              "sizeKB": 36983.5625,
+              "name": "sunnylorashy.safetensors",
+              "type": "Model",
+              "metadata": {
+                "fp": null,
+                "size": null,
+                "format": "SafeTensor"
+              },
+              "pickleScanResult": "Success",
+              "pickleScanMessage": "No Pickle imports",
+              "virusScanResult": "Success",
+              "virusScanMessage": null,
+              "scannedAt": "2023-08-29T10:40:51.669Z",
+              "hashes": {
+                "AutoV1": "6871F97B",
+                "AutoV2": "DBC153D031",
+                "SHA256": "DBC153D0319BE4C68AC7CF328F99D7983CDEA140DFB0D31D2846B815BD1B61C8",
+                "CRC32": "EFDA4EAC",
+                "BLAKE3": "DDCD150ADD6B7D40AB8D98C052A0800BFD9E8AC9E0D1A40688F28BE1778DD42F"
+              },
+              "downloadUrl": "https://civitai.com/api/download/models/150958?type=Model&format=SafeTensor"
+            }
+          ],
+          "images": "SAFE",
+          "downloadUrl": "https://civitai.com/api/download/models/150958"
+        }
+      ]
+    },
+    {
+      "id": 136833,
+      "name": "Samera Mix",
+      "description": "<p>So I wanted to do something different and take all these different images I’ve collected in different trainings and create something. This became the Mix person series.</p><p>I will be taking a sampling from multiple people and create a new character from that.</p><p>If you like this and want to help support me why not <a target=\"_blank\" rel=\"ugc\" href=\"https://www.buymeacoffee.com/wtygfmfhfvb\">buy me a coffee</a>. All model requests there will be given top priority and output in the next couple days</p><p>Below is a mix of the people this character contains:</p><ul><li><p><a rel=\"ugc\" href=\"https://civitai.com/models/91790?modelVersionId=97852\"><strong>Becky Lynch</strong></a></p></li><li><p><a rel=\"ugc\" href=\"https://civitai.com/models/92535?modelVersionId=98646\"><strong>Mandy Rose</strong></a></p></li><li><p><a rel=\"ugc\" href=\"https://civitai.com/models/73532?modelVersionId=78244\"><strong>Cameron Diaz</strong></a></p></li><li><p><a rel=\"ugc\" href=\"https://civitai.com/models/98921?modelVersionId=105815\"><strong>Sasha Calle</strong></a></p><p></p></li></ul>",
+      "type": "TextualInversion",
+      "poi": false,
+      "nsfw": false,
+      "allowNoCredit": true,
+      "allowCommercialUse": "Sell",
+      "allowDerivatives": true,
+      "allowDifferentLicense": true,
+      "stats": {
+        "downloadCount": 141,
+        "favoriteCount": 10,
+        "commentCount": 0,
+        "ratingCount": 0,
+        "rating": 0
+      },
+      "creator": {
+        "username": "frankyfrank2k",
+        "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/afdca61d-84fa-4b81-b82f-f35329af0722/width=96/frankyfrank2k.jpeg"
+      },
+      "tags": [
+        "character",
+        "female",
+        "mix",
+        "woman",
+        "mix series"
+      ],
+      "modelVersions": [
+        {
+          "id": 150961,
+          "modelId": 136833,
+          "name": "v1.0",
+          "createdAt": "2023-08-29T10:36:34.694Z",
+          "updatedAt": "2023-08-29T10:37:52.170Z",
+          "trainedWords": [
+            "samera1"
+          ],
+          "trainingStatus": null,
+          "trainingDetails": null,
+          "baseModel": "SD 1.5",
+          "baseModelType": null,
+          "earlyAccessTimeFrame": 0,
+          "description": null,
+          "vaeId": null,
+          "stats": {
+            "downloadCount": 141,
+            "ratingCount": 0,
+            "rating": 0
+          },
+          "files": [
+            {
+              "id": 112271,
+              "sizeKB": 30.9169921875,
+              "name": "samera1.pt",
+              "type": "Model",
+              "metadata": {
+                "fp": null,
+                "size": null,
+                "format": "PickleTensor"
+              },
+              "pickleScanResult": "Success",
+              "pickleScanMessage": "No Pickle imports",
+              "virusScanResult": "Success",
+              "virusScanMessage": null,
+              "scannedAt": "2023-08-29T10:40:36.240Z",
+              "hashes": {
+                "AutoV2": "921E1316A1",
+                "SHA256": "921E1316A1EC3827FFB7E7B360300C355263095F32A5F80A8312511278F0CEDA",
+                "CRC32": "6FEDAAC0",
+                "BLAKE3": "D37E2D777E17D8988707C5BDB7B1259E8F049992D99A96427B7462DDCA3D7FF6"
+              },
+              "downloadUrl": "https://civitai.com/api/download/models/150961",
+              "primary": true
+            }
+          ],
+          "images": "PARTIAL",
+          "downloadUrl": "https://civitai.com/api/download/models/150961"
+        }
+      ]
+    },
+    {
+      "id": 136835,
+      "name": "厌战-碧蓝航线（Warspite-Azur Lane）",
+      "description": "<h3 id=\"heading-16\"><strong><span style=\"color:rgb(250, 82, 82)\">请先看底部说明！</span></strong></h3><h3 id=\"heading-17\"><strong><span style=\"color:rgb(250, 82, 82)\">Please read the description at the bottom first!</span></strong></h3><p>这是游戏《<strong><span style=\"color:rgb(34, 139, 230)\">碧蓝航线</span></strong>》中的<strong><span style=\"color:#fd7e14\">厌战</span></strong>，推荐权重为0.6-1.0。</p><p>This is <strong><span style=\"color:#fd7e14\">Warspite</span></strong> from the game \"<strong><span style=\"color:rgb(34, 139, 230)\">Azur Lane</span></strong>\".The recommended weight is 0.6-1.0,</p><p></p><h3 id=\"heading-41\"><span style=\"color:rgb(250, 82, 82)\">喜欢就点个红心吧，谢谢。</span></h3><h3 id=\"heading-42\"><span style=\"color:rgb(250, 82, 82)\">If you like it, just order a red heart,thank you.</span></h3>",
+      "type": "LORA",
+      "poi": false,
+      "nsfw": false,
+      "allowNoCredit": false,
+      "allowCommercialUse": "None",
+      "allowDerivatives": false,
+      "allowDifferentLicense": true,
+      "stats": {
+        "downloadCount": 218,
+        "favoriteCount": 38,
+        "commentCount": 0,
+        "ratingCount": 3,
+        "rating": 5
+      },
+      "creator": {
+        "username": "King_dong",
+        "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/6fb81744-cdd1-46d4-968f-ea3ad1fc307e/width=96/King_dong.jpeg"
+      },
+      "tags": [
+        "character",
+        "female",
+        "azur lane",
+        "girls",
+        "game"
+      ],
+      "modelVersions": [
+        {
+          "id": 150963,
+          "modelId": 136835,
+          "name": "v1.0",
+          "createdAt": "2023-08-29T10:38:26.796Z",
+          "updatedAt": "2023-08-29T10:45:09.830Z",
+          "trainedWords": [
+            "(masterpiece, best quality:1.2),illustration,8k,hd,1girls,solo,breasts,upper body,(portrait:1.2),blonde_hair,long_hair,purple_eyes,bangs,hair_between_eyes,headgear,sidelocks,epaulettes,no skirt,black panties,white thighhighs,Boots,<lora:warspite>,"
+          ],
+          "trainingStatus": null,
+          "trainingDetails": null,
+          "baseModel": "SD 1.5",
+          "baseModelType": null,
+          "earlyAccessTimeFrame": 0,
+          "description": null,
+          "vaeId": null,
+          "stats": {
+            "downloadCount": 218,
+            "ratingCount": 3,
+            "rating": 5
+          },
+          "files": [
+            {
+              "id": 112276,
+              "sizeKB": 36988.7587890625,
+              "name": "warspite.safetensors",
+              "type": "Model",
+              "metadata": {
+                "fp": null,
+                "size": null,
+                "format": "SafeTensor"
+              },
+              "pickleScanResult": "Success",
+              "pickleScanMessage": "No Pickle imports",
+              "virusScanResult": "Success",
+              "virusScanMessage": null,
+              "scannedAt": "2023-08-29T10:45:45.347Z",
+              "hashes": {
+                "AutoV1": "6877FB59",
+                "AutoV2": "80C165C356",
+                "SHA256": "80C165C356FC19413D95849AB4695C34C32F65494F81562DFC39B2BF635C861E",
+                "CRC32": "90DAFFF1",
+                "BLAKE3": "F38CCD1339A2B37DEA8E4A01FBACC7DA66A3BAC0B1284F00CF2FFC14B00B8683"
+              },
+              "downloadUrl": "https://civitai.com/api/download/models/150963",
+              "primary": true
+            }
+          ],
+          "images": "PARTIAL",
+          "downloadUrl": "https://civitai.com/api/download/models/150963"
+        }
+      ]
+    }
+  ]
+}

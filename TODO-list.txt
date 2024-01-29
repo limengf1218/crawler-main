@@ -1,0 +1,33 @@
+ write an API endpoint to write into ModelFileHash table.
+
+during upsert model, update ModelFile table (pickleScanResult: Success, VirusScanResult: Success, scannedAt: datetime )
+                     update ModelFileHash table (filedid:.. , type: AutoV2, hash:.. , createdAt: datetime)
+
+
+(ZWE) stop thinking how review and images are linked. once you post a review and a image for that model version, its auto linked. (really really extremely stupid
+design by CIVITAI wasted so much of my time!!!!!)
+
+
+1. during the upsert post process, add postresourcehelper data into respective tables. (ZWE refer to details.txt)
+
+postresouces is an exact replica of imageresources, imageresouces take data from (imageresource, modelversion, model, modelrank, resourceReview)
+
+the direction of our approach might be wrong, we just gotta look are what are the APIs are used during the process, and make use of those APIs. 
+
+(ZWE) completely ignore point 1, review and posts are linked though userID, posts and modelVersion gallery are linked through ModelFileHash 
+
+
+help me do a code review, debug fetch review.
+
+
+
+2. posts/reviews 409 issue: 409 errors will be shown in the log. write a script to re-upload.
+
+3. model upsert error log re-upload script.
+
+6. model 409 issue.
+
+7. ReadMe file for crawler
+
+9. testing include createdAt, updatedAt and publishedAt info
+

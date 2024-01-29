@@ -1,0 +1,17 @@
+# CivitAI login credentials
+CIVITAI_EMAIL=your-email@example.com
+CIVITAI_EMAIL_PASSWORD=your-password
+
+# MikoMiko Server Environment Config
+WEB_ENDPOINT=http://localhost:3000
+S3_UPLOAD_KEY=Local_Minio_Key(this is not a key)
+S3_UPLOAD_SECRET=Local_Minio_Secret(this is not a secret)
+S3_UPLOAD_REGION=oss-cn-beijing
+S3_UPLOAD_ENDPOINT=http://localhost:9000
+S3_UPLOAD_BUCKET=modelshare
+S3_UPLOAD_BUCKET_ENDPOINT=http://localhost:9000/modelshare
+S3_IMAGE_UPLOAD_BUCKET=images
+S3_FORCE_PATH_STYLE=false
+
+# Moderator's cookie
+SECURE_MIKOMIKO_TOKEN=Session_Token(this is not a session token)
